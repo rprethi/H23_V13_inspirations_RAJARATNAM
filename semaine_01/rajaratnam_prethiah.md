@@ -1,27 +1,27 @@
-##Fiche de présentation##
+## Fiche de présentation ##
 
-**Information générale**
+### Information générale ###
 
-Prénom: Prethiah
+**Prénom:** Prethiah
 
-Nom: Rajaratnam
+**Nom:** Rajaratnam
 
-Âge: 18 ans
+**Âge:** 18 ans
 
-Session au cégep: 2ème session
+**Session au cégep:** 2ème session
 
-Programme: Techniques d'intégration multimédia
+**Programme:** Techniques d'intégration multimédia
 
-**Photo**
-
-
+### Photo ###
 
 
 
-**Plus sur moi**
 
-**Mes intérêts et mes passions**
 
-Intérêts dans le programme: Design Web, Developper des sites Web, Animation 2D, Conception Vidéo et la Photographie.
+### Plus sur moi ####
 
-Autres intérêts: Dessin, peinture, la musique (violon) et cuisiner.
+#### Mes intérêts et mes passions ####
+
+**Intérêts dans le programme:** Design Web, Developper des sites Web, Animation 2D, Conception Vidéo et la Photographie.
+
+**Autres intérêts:** Dessin, peinture, la musique (violon) et cuisiner.
