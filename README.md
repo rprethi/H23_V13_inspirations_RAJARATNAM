@@ -1,1 +1,1 @@
-Cours: Documentattion d'une collection multimédia
+Cours: Documentation d'une collection multimédia
