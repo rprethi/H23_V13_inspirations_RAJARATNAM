@@ -112,7 +112,7 @@ Les visiteurs peuvent regarder l'oeuvre de tous les côtés.
 
 ### Les actions de l'oeuvre
 
-[![nature_morte7](http://img.youtube.com/vi/CNgbcKuaqQo?feature=share/0.jpg)](https://youtube.com/shorts/CNgbcKuaqQo?feature=share)
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/CNgbcKuaqQo/0.jpg)](http://www.youtube.com/watch?v=CNgbcKuaqQo).
 
 
 ## Les éléments que j'ai apprécié de l'oeuvre
