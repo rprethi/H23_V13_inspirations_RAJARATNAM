@@ -137,5 +137,5 @@ sur l'écran. Par exemple, lorsque la main de l’utilisateur vient près de la 
 ## Sources
 * Catalogue Mutation BIAN 6
 * Musée BIAN
-* Site web de l'artiste:https://baronlanteigne.com/
+* Site web de l'artiste: https://baronlanteigne.com/
 
