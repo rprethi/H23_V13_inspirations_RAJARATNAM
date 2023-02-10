@@ -60,6 +60,8 @@ Baron Lanteigne
 
 * Contemplatif
 
+## Vue palante
+
 ![nature_morte7_ecran_sculpture](https://user-images.githubusercontent.com/112189908/217979638-e79197d8-db56-481a-8e80-a9b72ce444e4.png)
 
 ## Mise en espace
