@@ -134,3 +134,8 @@ réfléchir sur les deux réalités vécues, physiques et virtuelles. J’ai aus
 Je n’ai pas aimé le fait que l’œuvre n’est pas interactive. J’aurais implémenté des détecteurs de mouvements sur la sculpture pour faire bouger la main 3D qui apparaît
 sur l'écran. Par exemple, lorsque la main de l’utilisateur vient près de la sculpture, la main commencera a bouger et plus de glitch se formera sur les écrans.
 
+## Sources
+* Catalogue Mutation BIAN 6
+* Musée BIAN
+* Site web de l'artiste:https://baronlanteigne.com/
+
