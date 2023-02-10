@@ -16,3 +16,14 @@
 * des câbles
 * des plantes artificielles
 * des pièces électroniques.
+
+## Nom des oeuvres vues
+1. Nature morte 7
+2. 2 5 2 6
+3. Bilateral Time Slicer
+4. Résonances
+5. Slow Motion Car Carsh
+6. Cloud Face
+7. Coeus, Prometheus, Ichor et Tetard
+8. Amorph
+9. Copacabana Machine Sex
