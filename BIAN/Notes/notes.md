@@ -4,6 +4,8 @@
 
 ### Site de l'oeuvre: https://baronlanteigne.com/naturemorte7.html
 
+### Instagram de l'artiste: https://www.instagram.com/baronlanteigne/?hl=en
+
 ## Nature morte 7
 * neuf écrans
 * une sculpture d’écran 
