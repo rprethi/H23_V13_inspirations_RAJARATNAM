@@ -1,4 +1,4 @@
-# Fiche de présentation: Sortie BIAN
+# Fiche de présentation: Nature morte 7
 
 ## Nom de l'exposition ou de l'événement 
 
