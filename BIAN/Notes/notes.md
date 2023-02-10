@@ -1,3 +1,6 @@
+
+# Sortie BIAN
+
 ## Nom de l'exposition ou de l'événement 
 
 La 6e Biennale internationale d’art numérique (BIAN)
@@ -12,7 +15,7 @@ Le lieu de mise en exposition est la salle noire dans le musée Arsenal.
 
 ### Photo de moi devant l'entrée
 
-//////
+
 
 ## Type d’exposition 
 
@@ -48,6 +51,10 @@ Baron Lanteigne est l'artiste de cette oeuvre virtuelle.
 Cette oeuvre a été réalisée 2022 par Baron Lanteigne.
 
 ## Description de l'oeuvre
+
+Nature Morte 7 est une oeuvre qui ouvre sur un monde oublié. La sculpture centrale de cette œuvre combine un écran avec diverses petites pièces électroniques qui 
+s’illumine toujours. L’œuvre fait appel au contenant et au contenu. Cette œuvre fait réfléchir les visiteurs sur deux réalités vécues, physique et virtuelle. Le réseau 
+modulaire d'électronique de la sculpture crée une lueur qui étend le monde virtuel dans l'écran.
 
 ### Cartel
 
