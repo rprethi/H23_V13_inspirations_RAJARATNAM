@@ -1,4 +1,4 @@
-# Sortie BIAN
+# Fiche de présentation: Sortie BIAN
 
 ## Nom de l'exposition ou de l'événement 
 
