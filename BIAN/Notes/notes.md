@@ -113,6 +113,8 @@ Les visiteurs peuvent regarder l'oeuvre de tous les côtés.
 ### Les actions de l'oeuvre
 
 [![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/CNgbcKuaqQo/0.jpg)](http://www.youtube.com/watch?v=CNgbcKuaqQo).
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/pwO0NkzbEGw/0.jpg)](http://www.youtube.com/watch?v=pwO0NkzbEGw).
+
 
 
 ## Les éléments que j'ai apprécié de l'oeuvre
