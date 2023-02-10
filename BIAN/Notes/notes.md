@@ -8,7 +8,7 @@ La 6e Biennale internationale d’art numérique (BIAN)
 
 ## Lieu de mise en exposition 
 
-Dans la salle noire dans le musée Arsenal
+Le lieu de mise en exposition est la salle noire dans le musée Arsenal.
 
 ### Photo de moi devant l'entrée
 
@@ -16,13 +16,15 @@ Dans la salle noire dans le musée Arsenal
 
 ## Type d’exposition 
 
+Cette exposition est la combinaison de trois types d'exposition.
+
 * Itinérante
 * Virtuelle
 * Intérieure
 
 ## Date de ma visite
 
-Le 2 février 2023 à 13:30pm
+La date de la visite était le 2 février 2023 à 13:30PM.
 
 ## Titre de l'œuvre 
 
@@ -35,7 +37,7 @@ Nature Morte 7
 
 ## Nom de l'artiste 
 
-Baron Lanteigne
+Baron Lanteigne est l'artiste de cette oeuvre virtuelle.
 
 ### Cartel
 
@@ -43,7 +45,7 @@ Baron Lanteigne
 
 ## Année de réalisation  
 
-2022
+Cette oeuvre a été réalisée 2022 par Baron Lanteigne.
 
 ## Description de l'oeuvre
 
@@ -58,7 +60,7 @@ Baron Lanteigne
 
 ## Type d’installation
 
-* Contemplatif
+Nature morte 7 est une oeuvre contemplative.
 
 ### Vue palante
 
@@ -66,19 +68,22 @@ Baron Lanteigne
 
 ## Mise en espace
 
+L'oeuvre est composée d'écrans et d'une sculpture qui est installée dans la pièce noire du musée.
+
 ### Vue d'ensemble de la pièce
 
 ![nature_morte7_placement](https://user-images.githubusercontent.com/112189908/217978331-7ae3e373-a1dd-4fe2-b669-5bf0e407cc81.png)
 
-
 ### Croquis
+
+Un croquis qui est composé de la sculpture, des neuf écrans et les plantes artificielles.
 
 ![nature_morte7_croquis](https://user-images.githubusercontent.com/112189908/217978275-ed447a71-9a90-4838-87df-7bc076ee665a.png)
 
-
 ## Composantes et techniques 
 
-L'oeuvre est composé de neuf écrans, une sclupture d’écran, des fils, de l’animation 3D avec motion, des lumières fluorescents, des fils, des câbles, des plantes artificielles et des pièces électroniques.
+L'oeuvre est composé de neuf écrans, une sculpture d’écran, des fils, de l’animation 3D avec motion, des lumières fluorescents, des fils, des câbles, des plantes 
+artificielles et des pièces électroniques.
 
 ### Le transport de l'oeuvre
 
@@ -98,6 +103,8 @@ L'oeuvre est composé de neuf écrans, une sclupture d’écran, des fils, de l�
 
 ## Expérience vécue
 
+Les visiteurs peuvent regarder l'oeuvre de tous les côtés.
+
 ### Posture du visiteur
 
 ![nature_morte7_visiteur_01](https://user-images.githubusercontent.com/112189908/217977653-fe53c8aa-b994-4aa7-bb08-ac9edf3f7cf8.png)
@@ -109,8 +116,11 @@ L'oeuvre est composé de neuf écrans, une sclupture d’écran, des fils, de l�
 
 ## Les éléments que j'ai apprécié de l'oeuvre
 
-J’ai vraiment adoré l’œuvre. Je trouve que le concept est très intéressant. J’ai aimé que l’oeuvre montre les fils provenant des écrans. De plus est fils sont partiellement dévoilés ce qui rend l’œuvre encore plus intéressante. J’ai aussi adoré l’idée du glitch qui donne un effet plus surprenant. Plus cette ouvre me fait réfléchir sur les deux réalités vécues, physiques et virtuelles. J’ai aussi aimé que le réseau modulaire d'électronique pouvait être vu par les visiteurs du musée.
+J’ai vraiment adoré l’œuvre. Je trouve que le concept est très intéressant. J’ai aimé que l’oeuvre montre les fils provenant des écrans. De plus est fils sont 
+partiellement dévoilés ce qui rend l’œuvre encore plus intéressante. J’ai aussi adoré l’idée du glitch qui donne un effet plus surprenant. Plus cette oeuvre me fait 
+réfléchir sur les deux réalités vécues, physiques et virtuelles. J’ai aussi aimé que le réseau modulaire d'électronique pouvait être vu par les visiteurs du musée.
 
 ## Les éléments que j'ai moins apprécié de l'oeuvre
 
-Je n’ai pas aimé le fait que l’œuvre n’est pas interactive. J’aurais implémenté des détecteurs de mouvements sur la sculpture pour faire bouger la main 3D qui apparaît sur l'écran. Par exemple, lorsque la main de l’utilisateur vient près de la sculpture, la main commencera a bouger et plus de glitch se formera sur les écrans.
+Je n’ai pas aimé le fait que l’œuvre n’est pas interactive. J’aurais implémenté des détecteurs de mouvements sur la sculpture pour faire bouger la main 3D qui apparaît
+sur l'écran. Par exemple, lorsque la main de l’utilisateur vient près de la sculpture, la main commencera a bouger et plus de glitch se formera sur les écrans.
