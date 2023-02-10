@@ -138,4 +138,5 @@ sur l'écran. Par exemple, lorsque la main de l’utilisateur vient près de la 
 * Catalogue Mutation BIAN 6
 * Musée BIAN
 * Site web de l'artiste: https://baronlanteigne.com/
+* Cartel de l'oeuvre: Nature morte 7
 
