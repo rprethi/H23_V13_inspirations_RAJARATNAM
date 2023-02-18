@@ -54,3 +54,19 @@ Lien du projet: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/inde
 ![schema_zodie_gal](https://user-images.githubusercontent.com/112189908/219826214-093303af-f8f7-488b-b7db-aede23ac5cb8.jpg)
 
 ### Photos de l'installation en cours dans les studios
+
+## Ordre des projets par préférence
+
+1- Entre Fungus
+
+2- Luma Sol
+
+3- Boucler la boucle
+
+4- Echomarine
+
+5- Zodie-Gal
+
+Mon projet préféré: Entre Fungus
+
+J'aime beacoup le concept de ce projet ainsi malgré les conditions climatiques elle sera toujour déployée. Cette oeuvre fait une deuxième alusions à l'industrialisation. Elle est couverte de fausse plantes et de champignons. J'ai adoré le fait que ils ont penser aux conditions climatiques.
