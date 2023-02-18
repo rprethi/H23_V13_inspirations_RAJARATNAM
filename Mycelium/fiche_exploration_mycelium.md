@@ -77,6 +77,7 @@ J'aime beacoup le concept de ce projet ainsi malgré les conditions climatiques 
 * Conception de projet multimédia (582 513 MO)
 * Gestion de projets multimédia (582 523 MO)
 
-## Sources
+## Source
 
 * ([TIM Mycélium projets finaux 2023](https://tim-montmorency.com/2023/))
+* Viste des studios de TIM
