@@ -67,7 +67,7 @@ Lien du projet: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/inde
 
 5- Zodie-Gal
 
-Mon projet préféré: Entre Fungus
+## Mon projet préféré: Entre Fungus
 
 J'aime beaucoup le concept de ce projet ainsi malgré les conditions climatiques, elle sera toujours déployée. Cette œuvre fait une deuxième allusion à
 l'industrialisation. Elle est couverte de fausses plantes et de champignons. L'œuvre est parsemée de champignons qui représentent la fin de la boucle
