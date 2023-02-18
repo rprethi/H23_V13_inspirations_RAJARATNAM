@@ -79,7 +79,14 @@ d'industrialisation. J'ai beaucoup aimé que les créateurs de l'œuvre aient pe
 * Conception de projet multimédia (582 513 MO)
 * Gestion de projets multimédia (582 523 MO)
 
-## Source
+## Technique intéressante
+
+* Utlisation de FL Studio pour le son dans le projet Entre Fungus
+
+Fl studio est une station de travail audio numérique qui est conçue dans le projet pour diffuser de la musique. Dans ce projet, ils vont utiliser ce logiciel pour
+créer de la musique féerique et ambiophonie. De plus, les lumières installées sur l'œuvre vont coordonner avec le rythme de la musique.
+
+## Sources
 
 * [TIM Mycélium projets finaux 2023](https://tim-montmorency.com/2023/)
 * Viste des studios de TIM
