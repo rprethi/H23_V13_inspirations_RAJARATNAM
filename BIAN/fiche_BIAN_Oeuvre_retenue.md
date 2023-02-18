@@ -14,7 +14,7 @@ Le lieu de mise en exposition est la salle noire dans le musée Arsenal.
 
 ### Photo de moi devant l'entrée
 
-
+![visite_edifice_bian](https://user-images.githubusercontent.com/112189908/219900212-a41a9875-0829-4f01-a139-698849097d52.jpg)
 
 ## Type d’exposition 
 
