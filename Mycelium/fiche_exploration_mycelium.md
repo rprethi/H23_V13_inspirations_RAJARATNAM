@@ -79,6 +79,6 @@ J'aime beacoup le concept de ce projet ainsi malgré les conditions climatiques 
 
 ## Source
 
-* ([TIM Mycélium projets finaux 2023](https://tim-montmorency.com/2023/))
+* [TIM Mycélium projets finaux 2023](https://tim-montmorency.com/2023/)
 * Viste des studios de TIM
 * Créateurs et créatrices des projets Mycélium
