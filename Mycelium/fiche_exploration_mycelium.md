@@ -1,4 +1,4 @@
-# Mycélium
+# TIM Mycélium
 
 ## Echomarine
 Créatrices: Florence Lapierre,Natacha Abdallah, Tracy Gua et Maria Laura Coronel
