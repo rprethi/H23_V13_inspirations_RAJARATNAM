@@ -70,3 +70,9 @@ Lien du projet: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/inde
 Mon projet préféré: Entre Fungus
 
 J'aime beacoup le concept de ce projet ainsi malgré les conditions climatiques elle sera toujour déployée. Cette oeuvre fait une deuxième alusions à l'industrialisation. Elle est couverte de fausse plantes et de champignons. J'ai adoré le fait que ils ont penser aux conditions climatiques.
+
+## Cours du programme multimédia qui me semblent incontournables
+
+* Projet Web (582 518 MO)
+* Conception de projet multimédia (582 513 MO)
+* Gestion de projets multimédia (582 523 MO)
