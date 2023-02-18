@@ -69,7 +69,9 @@ Lien du projet: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/inde
 
 Mon projet préféré: Entre Fungus
 
-J'aime beacoup le concept de ce projet ainsi malgré les conditions climatiques elle sera toujour déployée. Cette oeuvre fait une deuxième alusions à l'industrialisation. Elle est couverte de fausse plantes et de champignons. J'ai adoré le fait que ils ont penser aux conditions climatiques.
+J'aime beaucoup le concept de ce projet ainsi malgré les conditions climatiques, elle sera toujours déployée. Cette œuvre fait une deuxième allusion à
+l'industrialisation. Elle est couverte de fausses plantes et de champignons. L'œuvre est parsemée de champignons qui représentent la fin de la boucle
+d'industrialisation. J'ai beaucoup aimé que les créateurs de l'œuvre aient pensé à la nature en incorporant des plantes artificielles et des structures métalliques.
 
 ## Cours du programme multimédia qui me semblent incontournables
 
