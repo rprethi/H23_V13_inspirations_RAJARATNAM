@@ -7,6 +7,8 @@ Lien du projet: https://tim-montmorency.com/2023/projets/Echomarine/docs/web/ind
 
 ### Schéma de l'installation prévue
 
+![schema_economatrine](https://user-images.githubusercontent.com/112189908/219826154-5b605cba-cc6b-4b00-8009-94e949850773.jpg)
+
 ### Photos de l'installation en cours dans les studios
 
 ## ENTRE FUNGUS
@@ -15,6 +17,8 @@ Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem
 Lien du projet: https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html
 
 ### Schéma de l'installation prévue
+
+![schema_entre_fungus](https://user-images.githubusercontent.com/112189908/219826167-7be58559-7f06-4ffc-a851-3842978f1e3e.png)
 
 ### Photos de l'installation en cours dans les studios
 
@@ -25,6 +29,8 @@ Lien du projet: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.
 
 ### Schéma de l'installation prévue
 
+![schema_luma_sol](https://user-images.githubusercontent.com/112189908/219826183-df17667c-74d7-45f0-b332-88d476a5a818.jpg)
+
 ### Photos de l'installation en cours dans les studios
 
 ## Boucler la boucle
@@ -34,6 +40,8 @@ Lien du projet: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/
 
 ### Schéma de l'installation prévue
 
+![schema_boucler_la_boucle](https://user-images.githubusercontent.com/112189908/219826196-6865e927-aece-4a51-9ec5-4e4d278ed505.jpg)
+
 ### Photos de l'installation en cours dans les studios
 
 ## Zodie-Gal
@@ -41,6 +49,8 @@ Créatrice: Abdanor Yara
 
 Lien du projet: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 
-### Schéma de l'installation prévue
+### Schéma du plan technique
+
+![schema_zodie_gal](https://user-images.githubusercontent.com/112189908/219826214-093303af-f8f7-488b-b7db-aede23ac5cb8.jpg)
 
 ### Photos de l'installation en cours dans les studios
