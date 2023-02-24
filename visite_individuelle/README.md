@@ -1,4 +1,4 @@
-## Visite Luminothérapie Iceberg
+# Visite Luminothérapie Iceberg
 
 ## Nom de l'exposition ou de l'événement
 
