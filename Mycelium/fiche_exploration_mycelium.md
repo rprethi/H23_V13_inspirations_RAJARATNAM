@@ -29,6 +29,8 @@
 
 ### Photos de l'installation en cours dans les studios
 
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA).
+
 ## LumaSol
 
 * Créateurs: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
@@ -43,6 +45,8 @@
 
 ### Photos de l'installation en cours dans les studios
 
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo).
+
 ## Boucler la boucle
 
 * Créateurs: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
@@ -54,6 +58,8 @@
 ![schema_boucler_la_boucle](https://user-images.githubusercontent.com/112189908/219826196-6865e927-aece-4a51-9ec5-4e4d278ed505.jpg)
 
 ### Photos de l'installation en cours dans les studios
+
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU).
 
 ## Zodie-Gal
 
