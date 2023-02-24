@@ -32,7 +32,7 @@
 
 ## Expérience vécue
 
-##Interactivité/contemplation/immersion/fonction
+## Interactivité/contemplation/immersion/fonction
 
 ## Gestes à poser
 
