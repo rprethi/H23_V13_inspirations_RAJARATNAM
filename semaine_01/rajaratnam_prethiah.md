@@ -18,7 +18,7 @@
 
 ## Plus sur moi ##
 
-## Mes intérêts et mes passions 
+### Mes intérêts et mes passions 
 
 **Intérêts dans le programme:** Design Web, Developper des sites Web, Animation 2D, Conception Vidéo et la Photographie.
 
