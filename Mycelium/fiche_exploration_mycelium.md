@@ -9,6 +9,8 @@
 
 ![schema_economatrine](https://user-images.githubusercontent.com/112189908/219826154-5b605cba-cc6b-4b00-8009-94e949850773.jpg)
 
+[Source Photo](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
+
 ### Photos de l'installation en cours dans les studios
 
 ## ENTRE FUNGUS
@@ -21,6 +23,8 @@
 
 ![schema_entre_fungus](https://user-images.githubusercontent.com/112189908/219826167-7be58559-7f06-4ffc-a851-3842978f1e3e.png)
 
+[Source Photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
+
 ### Photos de l'installation en cours dans les studios
 
 ## LumaSol
@@ -32,6 +36,8 @@
 ### Schéma de l'installation prévue
 
 ![schema_luma_sol](https://user-images.githubusercontent.com/112189908/219826183-df17667c-74d7-45f0-b332-88d476a5a818.jpg)
+
+
 
 ### Photos de l'installation en cours dans les studios
 
