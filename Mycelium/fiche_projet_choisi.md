@@ -12,7 +12,11 @@
 
 ## Date de ma visite
 
+Le 23 février 2023 à 13:30PM.
+
 ## Titre de l'œuvre 
+
+Le tritre de l'oeuvre est Echomarine.
 
 ### Vue d'ensemble
 
@@ -21,6 +25,8 @@
 ### Cartel
 
 ## Année de réalisation  
+
+Elle est réalisé en 2023 pendant la session d'hiver 2023.
 
 ## Description de l'oeuvre
 
