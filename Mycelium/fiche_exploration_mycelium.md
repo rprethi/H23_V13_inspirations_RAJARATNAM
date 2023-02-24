@@ -13,7 +13,7 @@
 
 ### Photos de l'installation en cours dans les studios
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/FXi9pK1dMA4.jpg)](http://www.youtube.com/watchFXi9pK1dMA4).
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4).
 
 ## ENTRE FUNGUS
 
