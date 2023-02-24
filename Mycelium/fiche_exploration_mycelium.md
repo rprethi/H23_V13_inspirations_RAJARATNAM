@@ -19,13 +19,15 @@ Echomarine a un but contemplatif et vise à conscientiser.
 
 [Source Photo](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
 
-### Photos et Vidéo de l'installation en cours dans les studios
+### Photos de l'installation en cours dans les studios
 
 ![echomarine_installation_01](https://user-images.githubusercontent.com/112189908/221075150-b13e7ed8-b20a-462b-90f2-fd6e31e5b8f0.jpg)
 
 ![echomarine_installation_02](https://user-images.githubusercontent.com/112189908/221075355-51c86d2c-f557-4f2f-9e4e-f226a8d654f3.jpg)
 
 ![echomarine_installation_03](https://user-images.githubusercontent.com/112189908/221075374-8fbb926b-c9b4-4a51-9386-3be3e5184425.jpg)
+
+### Vidéo de l'installation en cours dans les studios
 
 [![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
 
