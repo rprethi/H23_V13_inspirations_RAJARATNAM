@@ -1,6 +1,6 @@
-## Fiche de présentation ##
+# Fiche de présentation 
 
-### Information générale ###
+## Information générale 
 
 **Prénom:** Prethiah
 
@@ -12,13 +12,13 @@
 
 **Programme:** Techniques d'intégration multimédia
 
-### Photo ###
+## Photo 
 
 ![photo](https://user-images.githubusercontent.com/112189908/214974564-dd5b155e-2461-41c8-85fe-3f74b310d473.jpg)
 
-### Plus sur moi ####
+## Plus sur moi ##
 
-#### Mes intérêts et mes passions ####
+## Mes intérêts et mes passions 
 
 **Intérêts dans le programme:** Design Web, Developper des sites Web, Animation 2D, Conception Vidéo et la Photographie.
 
