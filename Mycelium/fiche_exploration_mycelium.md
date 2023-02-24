@@ -110,6 +110,8 @@ Dans le cadre de ce projet, (ils) voulaient démontrer l'importance pour les hum
 
 ![schema_boucler_la_boucle](https://user-images.githubusercontent.com/112189908/219826196-6865e927-aece-4a51-9ec5-4e4d278ed505.jpg)
 
+[Source Photo](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html)
+
 ### Photos et Vidéo de l'installation en cours dans les studios
 
 ![boucler_la_boucle_installation_01](https://user-images.githubusercontent.com/112189908/221075774-0f2e022f-17da-4566-8972-25576d24ed15.jpg)
