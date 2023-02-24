@@ -184,6 +184,14 @@ si j’étais dans un monde de fée. De plus, j’adore le concept de l’œuvre
 
 ### Luma Sol
 
+Luma Sol est une œuvre qui donne l’importance pour les humains de demeurer en contact avec la nature à cause de l’urgence climatique. Je n’ai pas vraiment eu la chance 
+de pouvoir essayer l’œuvre, car pendant ma visite, le vélo stationnaire était juste un emprunt du cours de spinning au Collège Montmorency. Le trouve que cette œuvre 
+ce démarque des autres, car elle fait bouger les utilisateurs. Il faut pédaler pour que les lumières s’allument et la musique joue. Je trouve que c’est un très bon 
+concept. Malheureusement, je ne pouvais pas l’essayer à cause des circonstances de l’emprunt de matériel. J’ai vraiment aimé les musiques qu’ils ont créées pour cette 
+œuvre. En parlant avec les créateurs de l’œuvre, ils m’ont informé que la musique changeait à chaque saison. Je trouve que le concept est bon, mais j’aurais aimé si on 
+pouvait connecter plusieurs vélos stationnaires à l’œuvre. En augmentant le nombre de vélos stationnaire, et incitera a essayer l’œuvre en groupe. Bref, après avoir vu 
+l’œuvre, elle me donne envie de l’essayer à chaque saison. 
+
 ### Boucler la boucle
 
 ### Zodie-Gal
