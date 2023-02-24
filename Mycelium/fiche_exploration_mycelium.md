@@ -69,21 +69,18 @@
 
 ## Ordre des projets par préférence
 
-1- Entre Fungus
+1- Echomarine
 
-2- Luma Sol
+2- Luma Sol 
 
 3- Boucler la boucle
 
-4- Echomarine
+4- Entre Fungus
 
 5- Zodie-Gal
 
 ## Mon projet préféré: Entre Fungus
 
-J'aime beaucoup le concept de ce projet ainsi malgré les conditions climatiques, elle sera toujours déployée. Cette œuvre fait une deuxième allusion à
-l'industrialisation. Elle est couverte de fausses plantes et de champignons. L'œuvre est parsemée de champignons qui représentent la fin de la boucle
-d'industrialisation. J'ai beaucoup aimé que les créateurs de l'œuvre aient pensé à la nature en incorporant des plantes artificielles et des structures métalliques.
 
 ## Cours du programme multimédia qui me semblent incontournables
 
@@ -103,3 +100,4 @@ créer de la musique féerique et ambiophonie. De plus, les lumières installée
 * [TIM Mycélium projets finaux 2023](https://tim-montmorency.com/2023/)
 * Viste des studios de TIM
 * Collecte d'informations des créateurs et créatrices des projets Mycélium
+* Le Github des projets mycélium
