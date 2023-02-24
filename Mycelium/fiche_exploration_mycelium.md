@@ -7,7 +7,7 @@
 
 ### Schéma de l'installation prévue
 
-![schema_economatrine]
+![schema_economatrine](https://user-images.githubusercontent.com/112189908/221075992-0f73746e-d9cf-49ce-938a-5ca7e5398c4c.jpg)
 
 [Source Photo](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
 
