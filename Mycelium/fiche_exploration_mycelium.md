@@ -173,9 +173,9 @@ audios pour écouter un petit documentaire sur les animaux en voie d’extinctio
 vraiment adoré mon expérience avec l’œuvre. J’avais eu la possibilité de choisir un animal pour apparaître sur les murs. J’ai vraiment aimé mon interaction avec celle 
 ci.
 
-### ENTRE FUNGUS
+### ENTRE FUNGUS/EDRIA
 
-Entre Fungus EDRIA est une œuvre interactive qui met en contraste entre la nature et le climat de l’industrialisation. J’ai eu la chance de pouvoir essayer l’œuvre 
+Entre Fungus/EDRIA est une œuvre interactive qui met en contraste entre la nature et le climat de l’industrialisation. J’ai eu la chance de pouvoir essayer l’œuvre 
 avec mes amis. J’ai vraiment aimé le fait que l’on a besoin de quatre personnes pour que l’œuvre fait des sons en harmonie. J’ai adoré le concept, car cela pourrait 
 ramener les gens ensemble par la musique. Depuis la Covid-19, il y a eu moins d’interaction avec les personnes. Je trouve que leur concept est bon pour rassembler les 
 gens et adorer le moment présent avec la musique. Je suis vraiment inspirée de l’œuvre créée, je trouve que c’est vraiment original. Lorsque j’ai essayé l’œuvre, il y 
