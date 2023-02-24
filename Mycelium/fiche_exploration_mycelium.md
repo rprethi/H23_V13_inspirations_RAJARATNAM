@@ -7,11 +7,17 @@
 
 ### Schéma de l'installation prévue
 
-![schema_economatrine](https://user-images.githubusercontent.com/112189908/219826154-5b605cba-cc6b-4b00-8009-94e949850773.jpg)
+![schema_economatrine]
 
 [Source Photo](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
 
-### Photos de l'installation en cours dans les studios
+### Photos et Vidéo de l'installation en cours dans les studios
+
+![echomarine_installation_01](https://user-images.githubusercontent.com/112189908/221075150-b13e7ed8-b20a-462b-90f2-fd6e31e5b8f0.jpg)
+
+![echomarine_installation_02](https://user-images.githubusercontent.com/112189908/221075355-51c86d2c-f557-4f2f-9e4e-f226a8d654f3.jpg)
+
+![echomarine_installation_03](https://user-images.githubusercontent.com/112189908/221075374-8fbb926b-c9b4-4a51-9386-3be3e5184425.jpg)
 
 [![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
 
@@ -27,7 +33,13 @@
 
 [Source Photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
 
-### Photos de l'installation en cours dans les studios
+### Photos et Vidéo de l'installation en cours dans les studios
+
+![edria_installation_01](https://user-images.githubusercontent.com/112189908/221075512-d7fa87c1-798e-4811-90a3-021059b17ca9.jpg)
+
+![edria_installation_02](https://user-images.githubusercontent.com/112189908/221075534-8b9e1727-62c5-44bc-827f-799af76a4232.jpg)
+
+![edria_installation_03](https://user-images.githubusercontent.com/112189908/221075543-c07471e9-2f4a-42db-8888-6c05cb5776b4.jpg)
 
 [![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
 
@@ -43,7 +55,13 @@
 
 [Source Photo](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html)
 
-### Photos de l'installation en cours dans les studios
+### Photos et Vidéo de l'installation en cours dans les studios
+
+![lumasol_installation_01](https://user-images.githubusercontent.com/112189908/221075696-38574394-c3e1-4b92-86b6-28215a2653c3.jpg)
+
+![lumasol_installation_02](https://user-images.githubusercontent.com/112189908/221075710-1477de90-4ccf-4e91-82d6-aeda2a6b4fe3.jpg)
+
+![lumasol_installation_03](https://user-images.githubusercontent.com/112189908/221075720-2a49be12-8dbe-42b6-b919-9b896f3b3f63.jpg)
 
 [![Vidéo Youtube Luma Sol](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo)
 
@@ -57,7 +75,14 @@
 
 ![schema_boucler_la_boucle](https://user-images.githubusercontent.com/112189908/219826196-6865e927-aece-4a51-9ec5-4e4d278ed505.jpg)
 
-### Photos de l'installation en cours dans les studios
+### Photos et Vidéo de l'installation en cours dans les studios
+
+
+![boucler_la_boucle_installation_01](https://user-images.githubusercontent.com/112189908/221075774-0f2e022f-17da-4566-8972-25576d24ed15.jpg)
+
+![boucler_la_boucle_installation_02](https://user-images.githubusercontent.com/112189908/221075780-f7638142-8d47-44c8-9d8a-a4e6de756196.jpg)
+
+![boucler_la_boucle_installation_03](https://user-images.githubusercontent.com/112189908/221075788-e73923e9-f040-449a-b636-dc9454c4b804.jpg)
 
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
 
