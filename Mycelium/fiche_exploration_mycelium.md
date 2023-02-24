@@ -161,6 +161,7 @@ image qui montre la victoire au joueur face au Zodiac.
 ## Mon expérience d'intéraction avec les projets
 
 ### Echomarine
+Echomarine est une œuvre qui a été créé par les étudiantes TIM de 3eme année. L’œuvre nous donne un aperçu de la beauté des fonds marins et aussi de sa population en menace d’extinction. L’œuvre est composé d’animation 2d des animaux marins avec Adobe After Effects, des projecteurs, des câbles, des fils, un IPad et des murs de projections. J’ai adoré mon expérience avec l’œuvre, j’ai trouvé que l’œuvre était très intéressant. Je trouvais que l’animation était très bien faite. J’ai aimé le fait que les utilisateurs puissent choisir l’animal marins qui apparait sur les murs. J’aurais aimé s’il y avait d’autre animaux marins que l’on puisse choisir et j’aurais aimé si la description de l’animal apparaît sur l’écrans de l’iPad lorsque l’on choisit un animal marin. J’aurais aussi aimé si on avait des quelques casques audios pour écouter un petit documentaire sur les animaux en voie d’extinction.  J’ai vraiment aimé l’ambiance de la musique et des animations sur les murs, j’ai vraiment adoré mon expérience avec l’œuvre. J’avais eu la possibilité de choisir un animal pour apparaitre sur les murs. J’ai vraiment aimé mon interaction avec celle-ci.
 
 ### ENTRE FUNGUS
 
