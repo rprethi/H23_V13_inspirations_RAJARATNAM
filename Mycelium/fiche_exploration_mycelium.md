@@ -65,6 +65,8 @@ vie.
 
 ![edria_installation_03](https://user-images.githubusercontent.com/112189908/221075543-c07471e9-2f4a-42db-8888-6c05cb5776b4.jpg)
 
+### Vidéo de l'installation en cours dans les studios
+
 [![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
 
 ## Luma Sol
@@ -94,6 +96,8 @@ Dans le cadre de ce projet, (ils) voulaient démontrer l'importance pour les hum
 
 ![lumasol_installation_03](https://user-images.githubusercontent.com/112189908/221075720-2a49be12-8dbe-42b6-b919-9b896f3b3f63.jpg)
 
+### Vidéo de l'installation en cours dans les studios
+
 [![Vidéo Youtube Luma Sol](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo)
 
 ## Boucler la boucle
@@ -113,6 +117,8 @@ Dans le cadre de ce projet, (ils) voulaient démontrer l'importance pour les hum
 ![boucler_la_boucle_installation_02](https://user-images.githubusercontent.com/112189908/221075780-f7638142-8d47-44c8-9d8a-a4e6de756196.jpg)
 
 ![boucler_la_boucle_installation_03](https://user-images.githubusercontent.com/112189908/221075788-e73923e9-f040-449a-b636-dc9454c4b804.jpg)
+
+### Vidéo de l'installation en cours dans les studios
 
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
 
