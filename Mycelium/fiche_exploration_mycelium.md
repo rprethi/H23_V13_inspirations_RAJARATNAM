@@ -156,8 +156,19 @@ image qui montre la victoire au joueur face au Zodiac.
 
 5- Zodie-Gal
 
-## Mon projet préféré: Entre Fungus
+## Mon projet préféré
 
+## Mon expérience d'intéraction avec les projets
+
+### Echomarine
+
+### ENTRE FUNGUS
+
+### Luma Sol
+
+### Boucler la boucle
+
+### Zodie-Gal
 
 ## Cours du programme multimédia qui me semblent incontournables
 
