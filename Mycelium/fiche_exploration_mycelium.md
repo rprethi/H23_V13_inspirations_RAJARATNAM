@@ -37,7 +37,7 @@
 
 ![schema_luma_sol](https://user-images.githubusercontent.com/112189908/219826183-df17667c-74d7-45f0-b332-88d476a5a818.jpg)
 
-
+[Source Photo](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html)
 
 ### Photos de l'installation en cours dans les studios
 
@@ -62,6 +62,8 @@
 ### Schéma du plan technique
 
 ![schema_zodie_gal](https://user-images.githubusercontent.com/112189908/219826214-093303af-f8f7-488b-b7db-aede23ac5cb8.jpg)
+
+[Source Photo](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html)
 
 ### Photos de l'installation en cours dans les studios
 
