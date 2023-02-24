@@ -13,7 +13,7 @@
 
 ### Photos de l'installation en cours dans les studios
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4).
+[![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
 
 ## ENTRE FUNGUS
 
@@ -29,9 +29,9 @@
 
 ### Photos de l'installation en cours dans les studios
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA).
+[![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
 
-## LumaSol
+## Luma Sol
 
 * Créateurs: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
@@ -45,7 +45,7 @@
 
 ### Photos de l'installation en cours dans les studios
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo).
+[![Vidéo Youtube Luma Sol](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo)
 
 ## Boucler la boucle
 
@@ -59,7 +59,7 @@
 
 ### Photos de l'installation en cours dans les studios
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU).
+[![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
 
 ## Zodie-Gal
 
