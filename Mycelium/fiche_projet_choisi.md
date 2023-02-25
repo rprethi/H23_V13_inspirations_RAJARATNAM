@@ -1,4 +1,4 @@
-# Fiche de présentation: Echomarine
+# Echomarine
 
 ## Nom de l'exposition ou de l'événement 
 
