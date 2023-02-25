@@ -2,13 +2,6 @@
 
 ## Echomarine
 
-### Description de l'oeuvre
-
-Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. 
-Echomarine a un but contemplatif et vise à conscientiser.
-
-[Source Description](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
-
 * Créatrices: Florence Lapierre,Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
 * Lien du projet: [TIM Mycélium Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
@@ -33,20 +26,6 @@ Echomarine a un but contemplatif et vise à conscientiser.
 
 ## ENTRE FUNGUS
 
-### Description de l'oeuvre
-
-Entre-Fungus est une installation interactive. Le but de cette installation est de mettre en contraste l'espace dans laquelle l'oeuvre se trouve, soit un espace conçu 
-pour se retrouver entre amis, diner ou même étudier avant un examen, et les conditions météorologiques dans lesquelles l'oeuvre sera déployée, Soit les derniers mois 
-de l'hiver, peu enclin à utiliser l'espace comme il a été pensé. Ce contraste est une métaphore qui relie notre projet au thème fédérateur, soit le biopunk. Dans cette 
-métaphore, l'espace dans lequel notre projet sera déployé représente la nature, qui est elle-même l'espace dans lequel l'être humain a déployé son projet de société, 
-et le climat est l'industrialisation, qui, froide et sans pitié, nous laisse avec un espace encombré de machine et dépourvue de vie. Notre oeuvre fait une deuxième 
-allusion à l'industrialisation en incorporant des structures métalliques et artificiel dans l'espace. Ces structures sont recouvertes de fausses plantes, qui viennent 
-également contraster avec le climat dans lequel l'oeuvre sera déployée, pour représenter le désir de l'humanité de cacher sa destruction de la nature. Finalement, 
-l'oeuvre est parsemée de champignons lumineux représentant la fin de la boucle de l'industrialisation, puisque les champignons sont la dernière étape du cycle de la 
-vie.
-
-[Source Description](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
-
 * Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
 * Lien du projet: [TIM Mycélium ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
@@ -70,13 +49,6 @@ vie.
 [![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
 
 ## Luma Sol
-
-### Description de l'oeuvre
-
-Dans le cadre de ce projet, (ils) voulaient démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.
-
-[Source Description](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
-
 
 * Créateurs: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
@@ -125,14 +97,6 @@ Dans le cadre de ce projet, (ils) voulaient démontrer l'importance pour les hum
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
 
 ## Zodie-Gal
-
-### Description de l'oeuvre
-
-Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet 
-d’une image. Il y a 12 niveaux au total(baser sur le zodiac). Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une 
-image qui montre la victoire au joueur face au Zodiac.
-
-[Source Description](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
 * Créatrice: Abdanor Yara
 
