@@ -194,6 +194,13 @@ l’œuvre, elle me donne envie de l’essayer à chaque saison.
 
 ### Boucler la boucle
 
+Boucler la boucle est une expérience lumineuse avec des animations et une ambiance musicale. Lorsque que j’ai visité l’œuvre, je trouvais que les créateurs ont bien 
+expliqué leur projet. J’ai eu la chance de pouvoir analyser le code QR pour diffuser des animations sur mon téléphone. J’ai adoré les animations qu’ils ont créées. Je 
+trouve que le projet est simple et minimaliste. Je trouve que ce projet est parfait pour toutes les conditions météorologiques. Personnellement, je n’ai pas vraiment 
+aimé cette œuvre. Mais je trouvais que le concept était bon. Mais j’ai adoré que l’on puisse analyser le code QR pour voir une animation. Je trouve que cela est une 
+bonne idée de laisser les utilisateurs d’analyser le code pour voir des animations. Je trouve que cela rend les utilisateurs conscients de la nature autour des 
+humains.
+
 ### Zodie-Gal
 
 ## Cours du programme multimédia qui me semblent incontournables
