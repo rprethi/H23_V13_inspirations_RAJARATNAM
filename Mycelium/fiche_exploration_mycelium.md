@@ -203,6 +203,12 @@ humains.
 
 ### Zodie-Gal
 
+Malheureusement, l’œuvre Zodie-Gal n’était pas présentée lors de ma visite. Mais en basant sur le site de TIM Montmorency, j’ai trouvé plus d’information sur cette 
+œuvre. J’ai aimé le concept de l’œuvre. Le concept des signes zodiaques est très original. De plus, l’œuvre a été réalisée par une seule personne ! Malheureusement, je 
+ne suis pas vraiment intéressée par cette œuvre. Je trouve que les idées et les démarches utilisées par la créatrice sont bonnes, mais je trouve que cette œuvre ne 
+m’intéresse pas. Je ne suis pas vraiment intéressé sur les projets des jeux, mais je pense que cela aurait été bien si on pouvait rencontrer la créatrice et voir 
+l’œuvre en création.
+
 ## Cours du programme multimédia qui me semblent incontournables
 
 * Projet Web (582 518 MO)
