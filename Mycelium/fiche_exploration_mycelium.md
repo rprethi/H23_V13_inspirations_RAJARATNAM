@@ -24,7 +24,7 @@
 
 [![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
 
-## ENTRE FUNGUS
+## ENTRE FUNGUS/EDRIA
 
 * Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
