@@ -15,6 +15,10 @@ Montmorency.
 
 ## Type d’exposition 
 
+* intérieure
+
+L'oeuvre est une exposition intérieure.
+
 ## Date de ma visite
 
 Le 23 février 2023 à 13:30PM.
@@ -37,6 +41,9 @@ Créatrices : Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coro
 Elle est réalisé en 2023 pendant la session d'hiver 2023. Elle a été réalisée pendant une période de sept à neuf semaines.
 
 ## Description de l'oeuvre
+
+Echomarine est une œuvre qui projette des animation des espèces marines et de sa population en menace d’extinction. Elle est composée de 3 murs qui projettent l’animal 
+choisi. On peut choisir notre animal sur iPad situé au centre de la pièce. Cette œuvre sensibilise la population de l'extinction des espèces marine dans notre société.
 
 ### Cartel
 
@@ -75,3 +82,7 @@ Elle est interactive, car on peut choisir sur un IPad quel animal afficher sur l
 ## Les éléments que j'ai moins apprécié de l'oeuvre
 
 ## Sources
+
+*
+*
+*
