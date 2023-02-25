@@ -11,6 +11,8 @@ Le nom de l’exposition est Mycélium et le nom du projet est Echomarine.
 Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle sera présentée dans l'un des studios de TIM
 Montmorency.
 
+![echomarine_lieu](https://user-images.githubusercontent.com/112189908/221365115-cbb13c51-87a3-4c56-b61d-9c711fa4e4c8.jpg)
+
 ### Photo de moi devant l'entrée
 
 ## Type d’exposition 
@@ -78,6 +80,10 @@ Elle est interactive, car on peut choisir sur un IPad quel animal afficher sur l
 ## Expérience vécue
 
 ### Posture du visiteur
+
+![echomarine_visiteur_01](https://user-images.githubusercontent.com/112189908/221365163-e249734e-538b-4acf-a734-bd0e04a357c2.jpg)
+
+![echomarine_visteur_02](https://user-images.githubusercontent.com/112189908/221365165-88e700f6-5bbe-42eb-b59b-2c52c8662afa.jpg)
 
 ### Les actions de l'oeuvre
 
