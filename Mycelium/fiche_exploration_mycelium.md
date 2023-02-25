@@ -124,6 +124,10 @@
 
 ## Mon projet préféré
 
+* Echomarine
+
+Mon projet préféré est Echomarine. J’ai vraiment adoré l’œuvre et celle-ci m’a vraiment inspiré. J’ai beaucoup aimé le concept des animaux marins en voie d'extinction. Je trouve que cette œuvre est simple et très intéressante. Je trouve que cette œuvre rassemble est gens de tout type d’âge et elle sensibilise la population des animaux marins. Je trouve que cette œuvre est très créative grâce aux animations des animaux en 2D. Cette œuvre est très intéressante et le concept est très original. Je trouve que les créatrices de l’œuvre ont bien exécuté le projet. De plus, la musique d’ambiance est très intéressante et rend les utilisateurs intrigués par celle-ci. Bref, ce projet est l’un de mes favoris !
+
 ## Mon expérience d'intéraction avec les projets
 
 ### Echomarine
