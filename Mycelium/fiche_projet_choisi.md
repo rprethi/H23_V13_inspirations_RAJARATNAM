@@ -65,6 +65,10 @@ Elle est interactive, car on peut choisir sur un IPad quel animal afficher sur l
 
 ### Croquis
 
+![echomarine_croquis_01](https://user-images.githubusercontent.com/112189908/221365062-c1eea47d-8429-431e-8fcc-2e94cae5d6d9.jpg)
+
+![echomarine_croquis_02](https://user-images.githubusercontent.com/112189908/221365064-0595c076-b676-4d83-b524-d7eaf69d08c6.jpg)
+
 ## Composantes et techniques 
 
 ### Le transport de l'oeuvre
