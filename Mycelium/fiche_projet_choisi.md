@@ -83,6 +83,7 @@ Elle est interactive, car on peut choisir sur un IPad quel animal afficher sur l
 
 ## Sources
 
-*
-*
-*
+* [TIM Mycélium Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+* [TIM Mycélium Echomarine Github](https://github.com/Echomarine/Echomarine)
+* [TIM Mycélium Echomarine Informations complémentaires](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
+* [TIM Mycélium Echomarine Vidéo Youtube](https://www.youtube.com/watch?v=aZDAxRJoc40)
