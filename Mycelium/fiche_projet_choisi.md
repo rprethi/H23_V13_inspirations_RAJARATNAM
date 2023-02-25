@@ -8,6 +8,9 @@ Le nom de l’exposition est Mycélium et le nom du projet est Echomarine.
 
 ## Lieu de mise en exposition 
 
+Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle sera présentée dans l'un des studios de TIM
+Montmorency.
+
 ### Photo de moi devant l'entrée
 
 ## Type d’exposition 
@@ -40,6 +43,12 @@ Elle est réalisé en 2023 pendant la session d'hiver 2023. Elle a été réalis
 ### Diverses vues
 
 ## Type d’installation
+
+* Contemplative
+* Interactif
+
+Elle est contemplative, car l'animation bouge, mais l'on ne peut pas toucher, on peut juste la regarder.
+Elle est interactive, car on peut choisir sur un IPad quel animal afficher sur les murs.
 
 ### Vue palante
 
