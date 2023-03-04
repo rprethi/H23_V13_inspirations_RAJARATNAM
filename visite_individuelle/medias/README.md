@@ -1,1 +1,1 @@
-TP01C: Les photos prises Iceberg, Luminothérapie lors de ma visite individuelle.
+TP01C: Les photos prises de l'oeuvre Iceberg, Luminothérapie 13e édition lors de ma visite individuelle.
