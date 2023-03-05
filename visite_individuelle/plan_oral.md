@@ -6,6 +6,11 @@ LUMINOTHÉRAPIE, 13E ÉDITION
 
 UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 
+L'événement Luminothérapie est une expérience hivernale interactive et immersive au Quartier des Spectacles de Montréal, présentant des installations lumineuses et 
+sonores à grande échelle pour les espaces publics. Luminothérapie vise à inspirer la créativité dans le domaine des installations urbaines et de l'art numérique. 
+Plusieurs districts culturels à travers le monde ont manifesté leur intérêt pour les installations artistiques participatives et interactives créées pour les espaces 
+publics par des artistes et créateurs locaux. Depuis 2016, 14 installations artistiques créées pour le Quartier des spectacles ont vu le jour dans 70 villes de 12 pays. 
+
 ### Affiche d'exposition
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
