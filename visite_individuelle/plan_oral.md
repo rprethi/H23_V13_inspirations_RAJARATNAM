@@ -77,8 +77,9 @@ Cette oeuvre a été réalisée 2010.
 
 ## Type d'installation
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/IQURQ_2-31U/0.jpg)](http://www.youtube.com/watch?v=IQURQ_2-31U)
-
+[![Type d'installation](http://img.youtube.com/vi/IQURQ_2-31U/0.jpg)](http://www.youtube.com/watch?v=IQURQ_2-31U)
+[![Type d'installation](http://img.youtube.com/vi/EJr9QHDsiPY/0.jpg)](http://www.youtube.com/watch?v=EJr9QHDsiPY)
+[![Type d'installation](http://img.youtube.com/vi/9Lyh1yucCUU/0.jpg)](http://www.youtube.com/watch?v=9Lyh1yucCUU)
 
 
 ## Fonction du dispositif multimédia
