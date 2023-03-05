@@ -94,6 +94,8 @@ Cette oeuvre a été réalisée en 2012-2013.
 
 ## Description de l'oeuvre ou du dispositif
 
+Inspirée de la nature même de ces glaciers flottants, l'installation réunit les monuments de glace millénaires de l'époque et des éléments façonnés qui émettent des sons distinctifs. Les crevasses et les sillons qui s'y sont formés résonnent comme des tubes d'orgues géants dont les sons se modulent et changent au fur et à mesure qu'ils fondent lentement. 
+
 * Nombre d’arches : 14
 * Poids de la base : 2 850 livres (1 293 kilos)
 * Poids d’une arche : 75 livres (34 kilos)
