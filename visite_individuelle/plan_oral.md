@@ -118,6 +118,8 @@ Cette oeuvre a été réalisée 2010.
 
 ## Ce qui m'a pas plu
 
+## Liens avec autres oeuvres
+
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 
