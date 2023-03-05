@@ -33,7 +33,7 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 
 ## Type d’exposition
 
-* Ittinérante
+* Temporaire
 * Extérieure
 
 ![iceberg_cote_gauche_02](https://user-images.githubusercontent.com/112189908/222936636-10577155-c132-4908-863c-790edfa7ea30.jpg)
@@ -71,7 +71,7 @@ Iceberg - Luminothérapie, 13e édition
 
 ## Année de réalisation
 
-Cette oeuvre a été réalisée 2010.
+Cette oeuvre a été réalisée en 2012-2013.
 
 ## Description de l'oeuvre ou du dispositif
 
