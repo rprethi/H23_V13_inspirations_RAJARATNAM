@@ -61,5 +61,20 @@ Cette oeuvre a été réalisée 2010.
 ## Type d'installation
 
 * Interactif
-*
+
+## Fonction du dispositif multimédia
+
+## Mise en espace
+
+### Croquis
+## Composantes et techniques
+## Éléments nécessaires à la mise en exposition
+## Expérience vécue
+
+## Ce qui m'a plu
+
+## Ce qui m'a pas plu
+
+## Références
+* [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 
