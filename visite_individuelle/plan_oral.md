@@ -17,6 +17,9 @@ publics par des artistes et créateurs locaux. Depuis 2016, 14 installations art
 
 ### Plan de Luminothérapie
 
+L'hiver prend vie chez Quartier des Spectacles avec la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives, 
+4 projections vidéo originales et un parcours d'expériences interactives sur glace. 
+
 ![iceberg_affiche_02](https://user-images.githubusercontent.com/112189908/222935286-57850880-0f7b-4960-b38e-4138744b6aca.jpg)
 
 ## Lieu de mise en exposition
