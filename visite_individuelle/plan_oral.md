@@ -110,6 +110,15 @@ Cette oeuvre a été réalisée 2010.
 ![iceberg_croquis](https://user-images.githubusercontent.com/112189908/222937349-deba8bad-f245-4afd-9568-85a959ea8789.jpg)
 
 ## Composantes et techniques
+
+* Luminaire Del
+* Haut-parleur
+* Capteur de mouvement
+* Profilé d'aluminium de 3 @ 12"
+* Tube en aluminum pour les passages des fils
+* Plaques d'aluminium pour relier la structure ensemble
+* Fils
+
 ![iceberg_composante_01](https://user-images.githubusercontent.com/112189908/222937492-be3080d1-aebe-49cf-908a-12882d38e090.jpg)
 
 ![iceberg_composante_02](https://user-images.githubusercontent.com/112189908/222937518-7ebf6062-0eeb-43c8-bc9d-056489a928ce.jpg)
