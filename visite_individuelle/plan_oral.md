@@ -45,9 +45,11 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 * Extérieure
 
 Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est crée par ATOMIC3 et 
-Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre de l’édition 2012-2013 du concours Luminothérapie. Pour l’édition 2013-2014 de 
-Plaisirs d’hiver, qui s’est terminée le 4 janvier, Bruxelles a accueilli Iceberg. C'est une oeuvre qui se déplace et qui est diffusée à Montreal pendant l'hiver pour 
-quelques jours. De plus, elle est thématique du réchauffement climatique.
+Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre de l’édition 2012-2013 du concours Luminothérapie. 
+
+* Pour l’édition 2013-2014 de Plaisirs d’hiver, qui s’est terminée le 4 janvier, Bruxelles a accueilli Iceberg. 
+* C'est une oeuvre qui se déplace et qui est diffusée à Montreal pendant l'hiver pour quelques jours.
+* De plus, elle est thématique du réchauffement climatique.
 
 ![iceberg_cote_gauche_02](https://user-images.githubusercontent.com/112189908/222936636-10577155-c132-4908-863c-790edfa7ea30.jpg)
 
@@ -65,6 +67,10 @@ Oeuvre est présentée:
 ## Titre de l'œuvre
 
 Iceberg - Luminothérapie, 13e édition
+
+Les icebergs, anciens monuments de glace sculptés par le temps et les éléments, produisent un son particulier. L'eau pénétrant dans les crevasses et les fissures vibre comme un tuyau d'orgue géant, son timbre se module et change à mesure qu'il fond. Comme cet instrument monumental, l'Iceberg est constitué d'une série d'arches métalliques lumineuses qui émettent des sons spécifiques. Placées dans des tunnels, ces arches invitent à se précipiter pour entendre et jouer de l'orgue géant. 
+
+Les notes de musique et la lumière produites se déplacent d'un bout à l'autre du couloir musical. Avec des sons et des lumières qui évoquent la pureté du nord, Iceberg est transformé par votre présence. L'activité humaine « réchauffe » ces monuments de glace, véritable baromètre du climat mondial, et transforme leur nature originelle en une symphonie de sons et d'images. 
 
 ### Vue d'ensemble de l'oeuvre
 
@@ -161,3 +167,4 @@ Cette oeuvre a été réalisée en 2012-2013.
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 * [QDSI](https://qdsinternational.com/installations/iceberg/)
+* 
