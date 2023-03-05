@@ -77,7 +77,7 @@ Cette oeuvre a été réalisée 2010.
 
 ## Type d'installation
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/iQzucWIawbk/0.jpg)](http://www.youtube.com/watch?v=iQzucWIawbk).
+[![VIDÉO PROSPERITY](http://img.youtube.com/vi/iQzucWIawbk/0.jpg)](http://www.youtube.com/watch?v=iQzucWIawbk)
 
 
 
