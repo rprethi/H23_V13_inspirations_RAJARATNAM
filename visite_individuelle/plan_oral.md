@@ -126,6 +126,12 @@ comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La l
 
 ## Type d'installation
 
+* Interactive
+
+Iceberg est une œuvre interactive avec laquelle les gens peuvent interagir. Lorsqu'une personne passe sous l'oeuvre, des sons sortent des arches et une lumière rouge 
+apparaît. Les gens peuvent également toucher l'œuvre et interagir avec elle. De plus, l'œuvre est dotée de détecteurs de mouvement qui peuvent être activés par les 
+passants.
+
 [![Type d'installation](http://img.youtube.com/vi/EJr9QHDsiPY/0.jpg)](http://www.youtube.com/watch?v=EJr9QHDsiPY)
 
 [![Type d'installation](http://img.youtube.com/vi/9Lyh1yucCUU/0.jpg)](http://www.youtube.com/watch?v=9Lyh1yucCUU)
