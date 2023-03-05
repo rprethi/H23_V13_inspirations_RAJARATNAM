@@ -167,4 +167,5 @@ Cette oeuvre a été réalisée en 2012-2013.
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 * [QDSI](https://qdsinternational.com/installations/iceberg/)
+* https://designmontreal.com/sites/designmontreal.com/files/ftp-uploads/planches/lumino2012esp/527KX_texte.pdf
 * 
