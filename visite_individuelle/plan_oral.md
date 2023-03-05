@@ -20,7 +20,7 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 
 [Adresse Luminothérapie Iceberg Google Maps](https://www.google.com/maps/dir//45.5076339,-73.5662777/@45.5076339,-73.5662777,17z)
 
-## Photo de moi devant l'oeuvre
+### Photo de moi devant l'oeuvre
 
 ![iceberg_prethiah_01](https://user-images.githubusercontent.com/112189908/222935417-5b07ee5d-f4f3-412b-bea3-3ab73d1da381.jpg)
 
@@ -33,13 +33,23 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 * Ittinérante
 * Extérieure
 
+![iceberg_cote_gauche_02](https://user-images.githubusercontent.com/112189908/222936636-10577155-c132-4908-863c-790edfa7ea30.jpg)
+
 ## Date de ma viste
 
 La date de la visite était le 3 mars 2023 vers 7:30PM.
 
+![iceberg_cote_gauche_01](https://user-images.githubusercontent.com/112189908/222936616-fa77c92c-28f0-4b24-bc49-828aac7c557c.jpg)
+
 ## Titre de l'œuvre
 
 Iceberg - Luminothérapie, 13e édition
+
+### Vue d'ensemble de l'oeuvre
+
+![iceberg_devant_01](https://user-images.githubusercontent.com/112189908/222936678-894216e0-97a1-4cb2-8932-d83693af7634.jpg)
+
+![iceberg_derriere_01](https://user-images.githubusercontent.com/112189908/222936689-36d144f6-076e-4d48-94b3-61beeac688d7.jpg)
 
 ## Nom des artistes et des firmes
 
@@ -49,6 +59,8 @@ Iceberg - Luminothérapie, 13e édition
 * Conception des modules interactifs : Philippe Jean
 * Coproduction: ATOMIC3 et du Partenariat du Quartier des spectacles et en codiffusion avec la Place des Arts
 
+[Source artistes et firmes](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
+
 ## Année de réalisation
 
 Cette oeuvre a été réalisée 2010.
@@ -56,9 +68,16 @@ Cette oeuvre a été réalisée 2010.
 ## Description de l'oeuvre ou du dispositif
 
 ### Cartel
+
+![iceberg_cartel](https://user-images.githubusercontent.com/112189908/222936745-84ac2b85-b5fd-4263-82b8-eee103bf8557.jpg)
+
 ### Diverses vues
 
+![iceberg_cartel_02](https://user-images.githubusercontent.com/112189908/222936757-c19ef05c-86cf-47a2-911d-58a9bffdb795.jpg)
+
 ## Type d'installation
+
+[![Type d'installation](http://img.youtube.com/vi/QzucWIawbk/0.jpg)](http://www.youtube.com/watch?v=iQzucWIawbk).
 
 * Interactif
 
