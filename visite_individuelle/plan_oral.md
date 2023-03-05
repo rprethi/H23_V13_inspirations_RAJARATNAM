@@ -6,7 +6,6 @@ LUMINOTHÉRAPIE, 13E ÉDITION
 
 UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 
-
 ### Affiche d'exposition
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
@@ -42,6 +41,11 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 ## Date de ma viste
 
 La date de la visite était le 3 mars 2023 vers 7:30PM.
+
+Oeuvre est présentée:
+
+* Du 1er décembre 2022 au 5 mars 2023
+* Tous les jours de 10 a.m. à 11 p.m.
 
 ![iceberg_cote_gauche_01](https://user-images.githubusercontent.com/112189908/222936616-fa77c92c-28f0-4b24-bc49-828aac7c557c.jpg)
 
