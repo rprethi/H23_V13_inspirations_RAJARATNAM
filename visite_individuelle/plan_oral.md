@@ -6,6 +6,7 @@ LUMINOTHÉRAPIE, 13E ÉDITION
 
 UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 
+
 ### Affiche d'exposition
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
@@ -133,4 +134,4 @@ Cette oeuvre a été réalisée 2010.
 
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
-
+* [QDSI](https://qdsinternational.com/installations/iceberg/)
