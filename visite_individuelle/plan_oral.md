@@ -181,5 +181,5 @@ comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La l
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 * [QDSI](https://qdsinternational.com/installations/iceberg/)
-* https://designmontreal.com/sites/designmontreal.com/files/ftp-uploads/planches/lumino2012esp/527KX_texte.pdf
-* 
+* [Design Montréal](https://designmontreal.com/sites/designmontreal.com/files/ftp-uploads/planches/lumino2012esp/527KX_texte.pdf)
+
