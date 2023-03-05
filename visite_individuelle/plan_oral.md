@@ -77,19 +77,42 @@ Cette oeuvre a été réalisée 2010.
 
 ## Type d'installation
 
-[![Type d'installation](http://img.youtube.com/vi/IQURQ_2-31U/0.jpg)](http://www.youtube.com/watch?v=IQURQ_2-31U)
 [![Type d'installation](http://img.youtube.com/vi/EJr9QHDsiPY/0.jpg)](http://www.youtube.com/watch?v=EJr9QHDsiPY)
+
 [![Type d'installation](http://img.youtube.com/vi/9Lyh1yucCUU/0.jpg)](http://www.youtube.com/watch?v=9Lyh1yucCUU)
 
-
 ## Fonction du dispositif multimédia
+
+[![Type d'installation](http://img.youtube.com/vi/iQzucWIawbk/0.jpg)](http://www.youtube.com/watch?v=iQzucWIawbk)
+
+[![Type d'installation](http://img.youtube.com/vi/F7RPEKNFrg0/0.jpg)](http://www.youtube.com/watch?v=F7RPEKNFrg0)
 
 ## Mise en espace
 
 ### Croquis
+
+![iceberg_croquis](https://user-images.githubusercontent.com/112189908/222937349-deba8bad-f245-4afd-9568-85a959ea8789.jpg)
+
 ## Composantes et techniques
+![iceberg_composante_01](https://user-images.githubusercontent.com/112189908/222937492-be3080d1-aebe-49cf-908a-12882d38e090.jpg)
+
+![iceberg_composante_02](https://user-images.githubusercontent.com/112189908/222937518-7ebf6062-0eeb-43c8-bc9d-056489a928ce.jpg)
+
+![iceberg_fils_01](https://user-images.githubusercontent.com/112189908/222937524-b204bf97-f177-4337-94de-8e326aee331b.jpg)
+
 ## Éléments nécessaires à la mise en exposition
+
+![iceberg_fils_02](https://user-images.githubusercontent.com/112189908/222937525-579d183a-82f0-4c7c-a5ab-cbe58c5ffe8a.jpg)
+
+![iceberg_composante_03](https://user-images.githubusercontent.com/112189908/222937506-0491c4c8-8da1-4897-b726-f5a0ed7a4749.jpg)
+
 ## Expérience vécue
+
+## Posture du visiteur
+
+[![Type d'installation](http://img.youtube.com/vi/IQURQ_2-31U/0.jpg)](http://www.youtube.com/watch?v=IQURQ_2-31U)
+
+[![Type d'installation](http://img.youtube.com/vi/9o4vxqJvzXE/0.jpg)](http://www.youtube.com/watch?v=9o4vxqJvzXE)
 
 ## Ce qui m'a plu
 
