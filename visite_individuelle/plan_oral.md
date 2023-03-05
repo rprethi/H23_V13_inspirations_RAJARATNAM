@@ -3,6 +3,7 @@
 ## Nom de l'exposition ou de l'événement
 
 LUMINOTHÉRAPIE, 13E ÉDITION
+
 UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 
 ### Affiche d'exposition
@@ -17,6 +18,8 @@ UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 
 Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal, Québec.
 * Adresse: 45.50763387858776,-73.5662777431605
+* 150 Sainte-Catherine O, Montréal, QC
+* Métro :  Place-des-Arts
 
 [Adresse Luminothérapie Iceberg Google Maps](https://www.google.com/maps/dir//45.5076339,-73.5662777/@45.5076339,-73.5662777,17z)
 
@@ -66,6 +69,14 @@ Iceberg - Luminothérapie, 13e édition
 Cette oeuvre a été réalisée 2010.
 
 ## Description de l'oeuvre ou du dispositif
+
+* Nombre d’arches : 14
+* Poids de la base : 2 850 livres (1 293 kilos)
+* Poids d’une arche : 75 livres (34 kilos)
+* Poids total d’un module : 3900 livres (1 769 kilos)
+* Empreinte au sol de l’installation : 1 156 pi2 (107 m2)
+
+[Source caractéristiques techniques](https://qdsinternational.com/installations/iceberg/)
 
 ### Cartel
 
