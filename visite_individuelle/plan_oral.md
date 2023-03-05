@@ -36,6 +36,11 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 * Temporaire
 * Extérieure
 
+Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est crée par ATOMIC3 et 
+Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre de l’édition 2012-2013 du concours Luminothérapie. Pour l’édition 2013-2014 de 
+Plaisirs d’hiver, qui s’est terminée le 4 janvier, Bruxelles a accueilli Iceberg. C'est une oeuvre qui se déplace et qui est diffusée à Montreal pendant l'hiver pour 
+quelques jours. De plus, elle est thématique du réchauffement climatique.
+
 ![iceberg_cote_gauche_02](https://user-images.githubusercontent.com/112189908/222936636-10577155-c132-4908-863c-790edfa7ea30.jpg)
 
 ## Date de ma viste
