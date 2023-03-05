@@ -9,7 +9,8 @@ UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 L'événement Luminothérapie est une expérience hivernale interactive et immersive au Quartier des Spectacles de Montréal, présentant des installations lumineuses et 
 sonores à grande échelle pour les espaces publics. Luminothérapie vise à inspirer la créativité dans le domaine des installations urbaines et de l'art numérique. 
 Plusieurs districts culturels à travers le monde ont manifesté leur intérêt pour les installations artistiques participatives et interactives créées pour les espaces 
-publics par des artistes et créateurs locaux. Depuis 2016, 14 installations artistiques créées pour le Quartier des spectacles ont vu le jour dans 70 villes de 12 pays. 
+publics par des artistes et créateurs locaux. Depuis 2016, 14 installations artistiques créées pour le Quartier des spectacles ont vu le jour dans 70 villes de 12 
+pays. 
 
 ### Affiche d'exposition
 
@@ -68,9 +69,13 @@ Oeuvre est présentée:
 
 Iceberg - Luminothérapie, 13e édition
 
-Les icebergs, anciens monuments de glace sculptés par le temps et les éléments, produisent un son particulier. L'eau pénétrant dans les crevasses et les fissures vibre comme un tuyau d'orgue géant, son timbre se module et change à mesure qu'il fond. Comme cet instrument monumental, l'Iceberg est constitué d'une série d'arches métalliques lumineuses qui émettent des sons spécifiques. Placées dans des tunnels, ces arches invitent à se précipiter pour entendre et jouer de l'orgue géant. 
+Les icebergs, anciens monuments de glace sculptés par le temps et les éléments, produisent un son particulier. L'eau pénétrant dans les crevasses et les fissures vibre 
+comme un tuyau d'orgue géant, son timbre se module et change à mesure qu'il fond. Comme cet instrument monumental, l'Iceberg est constitué d'une série d'arches 
+métalliques lumineuses qui émettent des sons spécifiques. Placées dans des tunnels, ces arches invitent à se précipiter pour entendre et jouer de l'orgue géant. 
 
-Les notes de musique et la lumière produites se déplacent d'un bout à l'autre du couloir musical. Avec des sons et des lumières qui évoquent la pureté du nord, Iceberg est transformé par votre présence. L'activité humaine « réchauffe » ces monuments de glace, véritable baromètre du climat mondial, et transforme leur nature originelle en une symphonie de sons et d'images. 
+Les notes de musique et la lumière produites se déplacent d'un bout à l'autre du couloir musical. Avec des sons et des lumières qui évoquent la pureté du nord, Iceberg 
+est transformé par votre présence. L'activité humaine « réchauffe » ces monuments de glace, véritable baromètre du climat mondial, et transforme leur nature originelle 
+en une symphonie de sons et d'images. 
 
 ### Vue d'ensemble de l'oeuvre
 
@@ -94,7 +99,14 @@ Cette oeuvre a été réalisée en 2012-2013.
 
 ## Description de l'oeuvre ou du dispositif
 
-Inspirée de la nature même de ces glaciers flottants, l'installation réunit les monuments de glace millénaires de l'époque et des éléments façonnés qui émettent des sons distinctifs. Les crevasses et les sillons qui s'y sont formés résonnent comme des tubes d'orgues géants dont les sons se modulent et changent au fur et à mesure qu'ils fondent lentement. 
+Inspirée de la nature même de ces glaciers flottants, l'installation réunit les monuments de glace millénaires de l'époque et des éléments façonnés qui émettent des 
+sons distinctifs. Les crevasses et les sillons qui s'y sont formés résonnent comme des tubes d'orgues géants dont les sons se modulent et changent au fur et à mesure 
+qu'ils fondent lentement. L'iceberg est comme un instrument de musique géant. Les arches métalliques sur la face inférieure de l'iceberg sont comme les haut-parleurs. 
+Ils diffusent des sons spécifiques et les gens peuvent entrer dans le tunnel et écouter. Le son est vraiment fort et il voyage d'un bout à l'autre du tunnel. Grâce à 
+des détecteurs de mouvement et des sources lumineuses sous chaque arche, les visiteurs peuvent jouer de l'orgue en transformant les sons et la lumière produits par les 
+arches. L'orgue est à l'état "naturel" où le son et la lumière évoquent la pureté boréale, mais il se transforme quand il fait chaud, comme un iceberg. L'installation 
+comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La lumière est destinée à rappeler aux téléspectateurs les dangers du changement climatique et 
+à les encourager à réfléchir sur celle-ci.
 
 * Nombre d’arches : 14
 * Poids de la base : 2 850 livres (1 293 kilos)
