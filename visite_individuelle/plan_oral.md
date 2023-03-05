@@ -79,7 +79,7 @@ Cette oeuvre a été réalisée 2010.
 
 [![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/iQzucWIawbk/0.jpg)](http://www.youtube.com/watch?v=iQzucWIawbk).
 
-* Interactif
+
 
 ## Fonction du dispositif multimédia
 
