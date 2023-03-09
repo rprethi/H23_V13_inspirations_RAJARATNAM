@@ -16,6 +16,9 @@ pays.
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
 
+![iceberg_affiche_03](https://user-images.githubusercontent.com/112189908/224175552-e0cbf501-229b-4d6f-a059-5448f27d82d7.jpg)
+
+
 ### Plan de Luminothérapie
 
 L'hiver prend vie chez Quartier des Spectacles avec la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives, 
