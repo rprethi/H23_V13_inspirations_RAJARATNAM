@@ -16,7 +16,7 @@ pays.
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
 
-### Affiche d'exposition (Site Web)
+### Affiche d'exposition 
 
 ![iceberg_affiche_03](https://user-images.githubusercontent.com/112189908/224175552-e0cbf501-229b-4d6f-a059-5448f27d82d7.jpg)
 
