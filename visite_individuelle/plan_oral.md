@@ -28,6 +28,9 @@ L'hiver prend vie chez Quartier des Spectacles avec la 13e édition de Luminoth�
 
 ![iceberg_affiche_02](https://user-images.githubusercontent.com/112189908/222935286-57850880-0f7b-4960-b38e-4138744b6aca.jpg)
 
+![iceberg_affiche_04](https://user-images.githubusercontent.com/112189908/224175967-46056046-51bf-44c8-a401-21e054df4c70.JPG)
+
+
 ## Lieu de mise en exposition
 
 Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal, Québec.
