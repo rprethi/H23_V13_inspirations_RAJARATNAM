@@ -12,7 +12,7 @@ Plusieurs districts culturels à travers le monde ont manifesté leur intérêt 
 publics par des artistes et créateurs locaux. Depuis 2016, 14 installations artistiques créées pour le Quartier des spectacles ont vu le jour dans 70 villes de 12 
 pays. 
 
-### Affiche d'exposition
+### Affiche d'exposition (Site Web)
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
 
