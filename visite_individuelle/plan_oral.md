@@ -159,15 +159,15 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 
 ## Composantes et techniques
 
-* Luminaire Del
-* Haut-parleur
-* Capteur de mouvement
-* Profilé d'aluminium de 3 @ 12"
-* Tube en aluminum pour les passages des fils
-* Plaques d'aluminium pour relier la structure ensemble
-* Clous pour relier la structure ensemble
-* Fils
-* Bande sonore
+* Des Luminaire Del
+* Des haut-parleurs
+* Des capteurs de mouvement
+* Des profilés d'aluminium de 3 @ 12"
+* Des tube en aluminum pour les passages des fils
+* Des plaques d'aluminium pour relier la structure ensemble
+* Des clous pour relier la structure ensemble
+* Des fils
+* Une bande sonore avec des effets sonores
 
 ![iceberg_composante_01](https://user-images.githubusercontent.com/112189908/222937492-be3080d1-aebe-49cf-908a-12882d38e090.jpg)
 
@@ -200,7 +200,10 @@ vistieurs traverse l'oeuvre.
 
 ## Mon expérience de l'oeuvre
 
-J'ai adoré l'oeuvre. J'ai trouvé que l'oeuvre était très intéressante.
+J'ai adoré l'oeuvre. J'ai trouvé que l'oeuvre était très intéressante. J'ai eu la chance d'essyer l'oeuvre malgré la poupularité de l'oeuvre. Lorsque j'ai essayer 
+l'oeuvre, elle me donnait l'impression que j'était dans un autre monde. De plus, j'ai adoré le concept ce celle-ci. J'ai essayer plusieurs fois l'oeuvre car j'etait 
+fasciner par comment l'oeuvre channgait de couleur grace à la chaleur humaine. J'ai aussi essayer plusieurs fois celle-ci pour voir comment l'oeuvre interafissait avec 
+un plus grand nombre de personne qui essaye l'oeuvre. 
 
 ## Posture du visiteur
 
@@ -210,9 +213,15 @@ J'ai adoré l'oeuvre. J'ai trouvé que l'oeuvre était très intéressante.
 
 ## Ce qui m'a plu
 
+Jai adoré le théeme de l'oeuvre. Le theme de l'oeuvre etait le rechauffement climatique. Je trouvais que cette oeuvre rend vraiment la poupulation sensible à l'indee des changement climatiques de planète. De plus, j'ai adoré que l'oeuvre etait interactive car elle permet de reunir la polutaion et interagir avec celle-ci en ayant du plair. Les éléments techniques de l'oeuvres sont tres interressante car l'oeuvre est composé de plusiquers elments qui permet les visiteur dinteragir avec celle-ci.
+
 ## Ce qui m'a pas plu
 
+Je n'ai pas aimé le fait que l'oeuvre éatit petite en largeur. Il n'y avait pas beacoup de place pour se déplaceer a l'interieur de l'oueuvre. Lorsque il y a plusieurs personne qui essayer en meme temps, defois il n'ya a pas assez de place pour se déplacer et interactir avec l'autre. Deplus, je n'ai pas aimé le fait que l'oeuvre avait la meme bande sonore qui repetait. J'aurais aimer, l'oeuvre disposait différente bande sonore à difféernts moment de la morne. Par exemple, le matin, l'apres-midi, se soir et la nuit aurait chacun une different bande sonore qui sera jouer. 
+
 ## Liens avec autres oeuvres
+
+L'oeuvre éatit n'est similaire à aucune des oeuvre vuées jusqua present dans cette session.
 
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
