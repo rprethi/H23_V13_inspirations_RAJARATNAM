@@ -191,14 +191,14 @@ relier la structure ensemble. À cause de la neige, les plaques d'aluminium sont
 
 ## Expérience vécue
 
-## Expérience attendu des visiteurs
+### Expérience attendu des visiteurs
 
 Les visiteurs peuvent engouffrer à l'intérieur de l'oeuvre, ils doivent marcher pour voir l'oeuvre réagir à leur présence. L'oeuvre est composée de lumières Del blues 
 et lorsquùn visiteur pénètre à l'intérieur de l'oeuvre les lumières Del bleues placées a l'intérieur des prolifé d'aluminium deviennnent rouges. Autrement dit, les 
 lumières deviennent rouges cause par la chaleur humaine. Grace au capteur de mouvement, l'oeuvre déclanche une bande sonore ainsi que des effets sonores lorsque les 
 vistieurs traverse l'oeuvre.
 
-## Mon expérience de l'oeuvre
+### Mon expérience de l'oeuvre
 
 J'ai adoré l'oeuvre. J'ai trouvé que l'oeuvre était très intéressante. J'ai eu la chance d'essyer l'oeuvre malgré la poupularité de l'oeuvre. Lorsque j'ai essayer 
 l'oeuvre, elle me donnait l'impression que j'était dans un autre monde. De plus, j'ai adoré le concept ce celle-ci. J'ai essayer plusieurs fois l'oeuvre car j'etait 
