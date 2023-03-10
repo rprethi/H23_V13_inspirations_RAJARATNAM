@@ -2,7 +2,7 @@
 
 # Introduction
 
-Au Québec, plusieurs événements montréalais sensibilisent la population en créant des œuvres thématiques à plusieurs enjeux dans la société. Luminothérapie, un événement présentant plusieurs œuvres interactives à Montréal est encore une fois présenté cette année au Quartier des spectacles.
+Au Québec, plusieurs événements montréalais sensibilisent la population en créant des œuvres thématiques à plusieurs enjeux dans la société. Luminothérapie, un événement présentant plusieurs œuvres interactives est encore une fois présenté cette année au Quartier des spectacles à Montréal.
 
 # Développement 
 ## Nom de l'exposition ou de l'événement
