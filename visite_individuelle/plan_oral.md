@@ -2,6 +2,7 @@
 
 # Introduction
 
+# Développement 
 ## Nom de l'exposition ou de l'événement
 
 LUMINOTHÉRAPIE, 13E ÉDITION
@@ -211,6 +212,8 @@ Je n'ai pas aimé le fait que l'œuvre était petite en largeur. Il n'y avait pa
 ## Liens avec autres oeuvres
 
 L'œuvre n'est pas similaire à aucune des œuvres vue jusqu'à présent dans cette session.
+
+# Conclusion 
 
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
