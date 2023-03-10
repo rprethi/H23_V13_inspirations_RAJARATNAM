@@ -15,7 +15,7 @@ sonores à grande échelle pour les espaces publics. Luminothérapie vise à ins
 
 ![iceberg_affiche_03](https://user-images.githubusercontent.com/112189908/224175552-e0cbf501-229b-4d6f-a059-5448f27d82d7.jpg)
 
-### Affiche d'exposition (Site Web QDSI)
+### Affiche d'exposition (Site Web Quartier des spectacles de Montréal)
 
 ![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
 
@@ -26,7 +26,7 @@ vidéos originales et un parcours d'expériences interactives sur glace.
 
 ![iceberg_affiche_04](https://user-images.githubusercontent.com/112189908/224175967-46056046-51bf-44c8-a401-21e054df4c70.JPG)
 
-### Plan de Luminothérapie (Site Web QDSI)
+### Plan de Luminothérapie (Site Web Quartier des spectacles de Montréal)
 
 ![iceberg_affiche_02](https://user-images.githubusercontent.com/112189908/222935286-57850880-0f7b-4960-b38e-4138744b6aca.jpg)
 
