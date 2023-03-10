@@ -104,14 +104,7 @@ Cette oeuvre a été réalisée en 2012-2013.
 
 ## Description de l'oeuvre ou du dispositif
 
-Inspirée de la nature même de ces glaciers flottants, l'installation réunit les monuments de glace millénaires de l'époque et des éléments façonnés qui émettent des 
-sons distinctifs. Les crevasses et les sillons qui s'y sont formés résonnent comme des tubes d'orgues géants dont les sons se modulent et changent au fur et à mesure 
-qu'ils fondent lentement. L'iceberg est comme un instrument de musique géant. Les arches métalliques sur la face inférieure de l'iceberg sont comme les haut-parleurs. 
-Ils diffusent des sons spécifiques et les gens peuvent entrer dans le tunnel et écouter. Le son est vraiment fort et il voyage d'un bout à l'autre du tunnel. Grâce à 
-des détecteurs de mouvement et des sources lumineuses sous chaque arche, les visiteurs peuvent jouer de l'orgue en transformant les sons et la lumière produits par les 
-arches. L'orgue est à l'état "naturel" où le son et la lumière évoquent la pureté boréale, mais il se transforme quand il fait chaud, comme un iceberg. L'installation 
-comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La lumière est destinée à rappeler aux téléspectateurs les dangers du changement climatique et 
-à les encourager à réfléchir sur celle-ci.
+L'iceberg est comme un instrument de musique géant. Les arches métalliques sur la face inférieure de l'iceberg sont comme les haut-parleurs. Ils diffusent des sons spécifiques et les gens peuvent entrer dans le tunnel et écouter. Le son est vraiment fort et il voyage d'un bout à l'autre du tunnel. Grâce à des détecteurs de mouvement et des sources lumineuses sous chaque arche, les visiteurs peuvent jouer de l'orgue en transformant les sons et la lumière produits par les arches. L'orgue est à l'état "naturel" où le son et la lumière évoquent la pureté boréale, mais il se transforme quand il fait chaud, comme un iceberg. L'installation comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La lumière est destinée à rappeler aux téléspectateurs les dangers du changement climatique et à les encourager à réfléchir sur celle-ci.
 
 * Nombre d’arches : 14
 * Poids de la base : 2 850 livres (1 293 kilos)
