@@ -1,5 +1,7 @@
 # Visite individuelle: Luminothérapie Iceberg
 
+# Introduction
+
 ## Nom de l'exposition ou de l'événement
 
 LUMINOTHÉRAPIE, 13E ÉDITION
@@ -9,31 +11,33 @@ UN PARCOURS D’ŒUVRES INTERACTIVES ET LUMINEUSES
 L'événement Luminothérapie est une expérience hivernale interactive et immersive au Quartier des Spectacles de Montréal, présentant des installations lumineuses et 
 sonores à grande échelle pour les espaces publics. Luminothérapie vise à inspirer la créativité dans le domaine des installations urbaines et de l'art numérique. 
 
-### Affiche d'exposition (Site Web)
-
-![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
-
 ### Affiche d'exposition 
 
 ![iceberg_affiche_03](https://user-images.githubusercontent.com/112189908/224175552-e0cbf501-229b-4d6f-a059-5448f27d82d7.jpg)
 
+### Affiche d'exposition (Site Web QDSI)
+
+![iceberg_affiche_01](https://user-images.githubusercontent.com/112189908/222935284-9221ede8-e1de-4f08-9300-1783863b0af5.jpg)
 
 ### Plan de Luminothérapie
 
 L'hiver prend vie chez Quartier des Spectacles avec la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives, 
 4 projections vidéo originales et un parcours d'expériences interactives sur glace. 
 
-![iceberg_affiche_02](https://user-images.githubusercontent.com/112189908/222935286-57850880-0f7b-4960-b38e-4138744b6aca.jpg)
-
 ![iceberg_affiche_04](https://user-images.githubusercontent.com/112189908/224175967-46056046-51bf-44c8-a401-21e054df4c70.JPG)
 
+### Plan de Luminothérapie (Site Web QDSI)
+
+![iceberg_affiche_02](https://user-images.githubusercontent.com/112189908/222935286-57850880-0f7b-4960-b38e-4138744b6aca.jpg)
 
 ## Lieu de mise en exposition
 
 Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal, Québec.
-* Adresse: 45.50763387858776,-73.5662777431605
+* **Adresse:** 45.50763387858776,-73.5662777431605
 * 150 Sainte-Catherine O, Montréal, QC
-* Métro :  Place-des-Arts
+* **Métro:**  Place-des-Arts
+
+### Adresse Iceberg Luminothérapie Google Maps
 
 [Adresse Luminothérapie Iceberg Google Maps](https://www.google.com/maps/dir//45.5076339,-73.5662777/@45.5076339,-73.5662777,17z)
 
@@ -53,9 +57,13 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est crée par ATOMIC3 et 
 Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre de l’édition 2012-2013 du concours Luminothérapie. 
 
+### Informations complémentaires sur le type d'exposition
+
 * Pour l’édition 2013-2014 de Plaisirs d’hiver, qui s’est terminée le 4 janvier, Bruxelles a accueilli Iceberg. 
 * C'est une oeuvre qui se déplace et qui est diffusée à Montreal pendant l'hiver pour quelques jours.
 * De plus, elle est thématique du réchauffement climatique.
+
+### L'oeuvre temporaire Iceberg
 
 ![iceberg_cote_gauche_02](https://user-images.githubusercontent.com/112189908/222936636-10577155-c132-4908-863c-790edfa7ea30.jpg)
 
@@ -63,7 +71,7 @@ Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre
 
 La date de la visite était le 3 mars 2023 vers 7:30PM.
 
-Oeuvre est présentée:
+### Les heures de présentation
 
 * Du 1er décembre 2022 au 5 mars 2023
 * Tous les jours de 10 a.m. à 11 p.m.
@@ -73,14 +81,6 @@ Oeuvre est présentée:
 ## Titre de l'œuvre
 
 Iceberg - Luminothérapie, 13e édition
-
-Les icebergs, anciens monuments de glace sculptés par le temps et les éléments, produisent un son particulier. L'eau pénétrant dans les crevasses et les fissures vibre 
-comme un tuyau d'orgue géant, son timbre se module et change à mesure qu'il fond. Comme cet instrument monumental, l'Iceberg est constitué d'une série d'arches 
-métalliques lumineuses qui émettent des sons spécifiques. Placées dans des tunnels, ces arches invitent à se précipiter pour entendre et jouer de l'orgue géant. 
-
-Les notes de musique et la lumière produites se déplacent d'un bout à l'autre du couloir musical. Avec des sons et des lumières qui évoquent la pureté du nord, Iceberg 
-est transformé par votre présence. L'activité humaine « réchauffe » ces monuments de glace, véritable baromètre du climat mondial, et transforme leur nature originelle 
-en une symphonie de sons et d'images. 
 
 ### Vue d'ensemble de l'oeuvre
 
@@ -123,6 +123,8 @@ comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La l
 
 ### Cartel
 
+![iceberg_cartel_03](https://user-images.githubusercontent.com/112189908/224188077-cc4e2adb-82af-4283-bad1-d3f0a10a81dc.JPG)
+
 ![iceberg_cartel](https://user-images.githubusercontent.com/112189908/222936745-84ac2b85-b5fd-4263-82b8-eee103bf8557.jpg)
 
 ### Diverses vues
@@ -149,7 +151,9 @@ passants.
 
 ## Mise en espace
 
-### Croquis
+L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est présentée dans l'esplanade de la Place des Arts à Montréal, Québec.
+
+### Les Croquis
 
 ![iceberg_croquis](https://user-images.githubusercontent.com/112189908/222937349-deba8bad-f245-4afd-9568-85a959ea8789.jpg)
 
@@ -161,7 +165,9 @@ passants.
 * Profilé d'aluminium de 3 @ 12"
 * Tube en aluminum pour les passages des fils
 * Plaques d'aluminium pour relier la structure ensemble
+* Clous pour relier la structure ensemble
 * Fils
+* Bande sonore
 
 ![iceberg_composante_01](https://user-images.githubusercontent.com/112189908/222937492-be3080d1-aebe-49cf-908a-12882d38e090.jpg)
 
@@ -169,9 +175,16 @@ passants.
 
 ![iceberg_fils_01](https://user-images.githubusercontent.com/112189908/222937524-b204bf97-f177-4337-94de-8e326aee331b.jpg)
 
+![iceberg_fils_02](https://user-images.githubusercontent.com/112189908/222937525-579d183a-82f0-4c7c-a5ab-cbe58c5ffe8a.jpg)
+
+## Le transport de l'oeuvre
+
+*
+
 ## Éléments nécessaires à la mise en exposition
 
-![iceberg_fils_02](https://user-images.githubusercontent.com/112189908/222937525-579d183a-82f0-4c7c-a5ab-cbe58c5ffe8a.jpg)
+Le Quartier de spectacle n'a pas mis en place des éléments pour que l'oeuvre ou le dispositif soit exposé. L'oeuvre est déjà composée de plaques d'aluminium pour 
+relier la structure ensemble. À cause de la neige, les plaques d'aluminium sont cachées. La pesenteur de l'oeuvre rend l'oeuvre stable au sol.
 
 ![iceberg_composante_03](https://user-images.githubusercontent.com/112189908/222937506-0491c4c8-8da1-4897-b726-f5a0ed7a4749.jpg)
 
