@@ -1,4 +1,4 @@
-# Visite individuelle: Luminothérapie Iceberg
+# Visite individuelle : Luminothérapie Iceberg
 
 # Introduction
 
@@ -21,8 +21,8 @@ sonores à grande échelle pour les espaces publics. Luminothérapie vise à ins
 
 ### Plan de Luminothérapie
 
-L'hiver prend vie chez Quartier des Spectacles avec la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives, 
-4 projections vidéo originales et un parcours d'expériences interactives sur glace. 
+Quartier des Spectacles accueil la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives 4 projections de 
+vidéos originales et un parcours d'expériences interactives sur glace. 
 
 ![iceberg_affiche_04](https://user-images.githubusercontent.com/112189908/224175967-46056046-51bf-44c8-a401-21e054df4c70.JPG)
 
@@ -54,13 +54,13 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 * Temporaire
 * Extérieure
 
-Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est crée par ATOMIC3 et 
+Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est créee par ATOMIC3 et 
 Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre de l’édition 2012-2013 du concours Luminothérapie. 
 
 ### Informations complémentaires sur le type d'exposition
 
 * Pour l’édition 2013-2014 de Plaisirs d’hiver, qui s’est terminée le 4 janvier, Bruxelles a accueilli Iceberg. 
-* C'est une oeuvre qui se déplace et qui est diffusée à Montreal pendant l'hiver pour quelques jours.
+* C'est une oeuvre qui se déplace et qui est diffusée à Montréal pendant l'hiver pour quelques jours.
 * De plus, elle est thématique du réchauffement climatique.
 
 ### L'oeuvre temporaire Iceberg
@@ -159,7 +159,7 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 
 ## Composantes et techniques
 
-* Des Luminaire Del
+* Des luminaires Del
 * Des haut-parleurs
 * Des capteurs de mouvement
 * Des profilés d'aluminium de 3 @ 12"
@@ -184,8 +184,8 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 
 ## Éléments nécessaires à la mise en exposition
 
-Le Quartier de spectacle n'a pas mis en place des éléments pour que l'oeuvre ou le dispositif soit exposé. L'oeuvre est déjà composée de plaques d'aluminium pour 
-relier la structure ensemble. À cause de la neige, les plaques d'aluminium sont cachées. La pesenteur de l'oeuvre rend l'oeuvre stable au sol.
+Le Quartier de spectacle n'a pas mis en place des éléments pour que l'œuvre ou le dispositif soit exposé. L'œuvre est déjà composée de plaques d'aluminium pour relier 
+la structure ensemble. À cause de la neige, les plaques d'aluminium sont cachées. La pesanteur de l'œuvre rend l'œuvre stable au sol.
 
 ![iceberg_composante_03](https://user-images.githubusercontent.com/112189908/222937506-0491c4c8-8da1-4897-b726-f5a0ed7a4749.jpg)
 
@@ -193,17 +193,14 @@ relier la structure ensemble. À cause de la neige, les plaques d'aluminium sont
 
 ### Expérience attendu des visiteurs
 
-Les visiteurs peuvent engouffrer à l'intérieur de l'oeuvre, ils doivent marcher pour voir l'oeuvre réagir à leur présence. L'oeuvre est composée de lumières Del blues 
-et lorsquùn visiteur pénètre à l'intérieur de l'oeuvre les lumières Del bleues placées a l'intérieur des prolifé d'aluminium deviennnent rouges. Autrement dit, les 
-lumières deviennent rouges cause par la chaleur humaine. Grace au capteur de mouvement, l'oeuvre déclanche une bande sonore ainsi que des effets sonores lorsque les 
-vistieurs traverse l'oeuvre.
+Les visiteurs peuvent engouffrer à l'intérieur de l'œuvre, ils doivent marcher pour voir l'œuvre réagir à leur présence. L'œuvre est composée de lumières Del blues et 
+lorsqu'un visiteur pénètre à l'intérieur de l'œuvre, les lumières Del bleues placées à l'intérieur des profilés d'aluminium rouges. Autrement dit, les lumières bleues 
+changent de couleur pour devenir rouge à cause par la chaleur humaine. Grâce au capteur de mouvement, l'œuvre déclenche une bande sonore ainsi que des effets sonores 
+lorsque les visiteurs traversent l'œuvre.
 
 ### Mon expérience de l'oeuvre
 
-J'ai adoré l'oeuvre. J'ai trouvé que l'oeuvre était très intéressante. J'ai eu la chance d'essyer l'oeuvre malgré la poupularité de l'oeuvre. Lorsque j'ai essayer 
-l'oeuvre, elle me donnait l'impression que j'était dans un autre monde. De plus, j'ai adoré le concept ce celle-ci. J'ai essayer plusieurs fois l'oeuvre car j'etait 
-fasciner par comment l'oeuvre channgait de couleur grace à la chaleur humaine. J'ai aussi essayer plusieurs fois celle-ci pour voir comment l'oeuvre interafissait avec 
-un plus grand nombre de personne qui essaye l'oeuvre. 
+Les visiteurs peuvent engouffrer à l'intérieur de l'œuvre, ils doivent marcher pour voir l'œuvre réagir à leur présence. L'œuvre est composée de lumières Del blues et lorsqu'un visiteur pénètre à l'intérieur de l'œuvre les lumières Del bleues placées à l'intérieur des profilés d'aluminium rouges. Autrement dit, les lumières bleues changent de couleur pour devenir rouge cause par la chaleur humaine. Grâce au capteur de mouvement, l'œuvre déclenche une bande sonore ainsi que des effets sonores lorsque les visiteurs traversent l'œuvre.
 
 ## Posture du visiteur
 
@@ -213,15 +210,14 @@ un plus grand nombre de personne qui essaye l'oeuvre.
 
 ## Ce qui m'a plu
 
-Jai adoré le théeme de l'oeuvre. Le theme de l'oeuvre etait le rechauffement climatique. Je trouvais que cette oeuvre rend vraiment la poupulation sensible à l'indee des changement climatiques de planète. De plus, j'ai adoré que l'oeuvre etait interactive car elle permet de reunir la polutaion et interagir avec celle-ci en ayant du plair. Les éléments techniques de l'oeuvres sont tres interressante car l'oeuvre est composé de plusiquers elments qui permet les visiteur dinteragir avec celle-ci.
+J'ai adoré le thème de l'œuvre. Le thème de l'œuvre était le réchauffement climatique. Je trouvais que cette œuvre rend vraiment la population sensible à l'idée du changement climatique de la planète. De plus, j'ai adoré que l'œuvre était interactive, car elle permet de réunir la population et d'interagir avec celle-ci en ayant du plaisir. Les éléments techniques de l'œuvre sont très intéressants puisque l'œuvre est composée de plusieurs éléments qui permettent les visiteurs d'interagir avec celle-ci.
 
 ## Ce qui m'a pas plu
 
-Je n'ai pas aimé le fait que l'oeuvre éatit petite en largeur. Il n'y avait pas beacoup de place pour se déplaceer a l'interieur de l'oueuvre. Lorsque il y a plusieurs personne qui essayer en meme temps, defois il n'ya a pas assez de place pour se déplacer et interactir avec l'autre. Deplus, je n'ai pas aimé le fait que l'oeuvre avait la meme bande sonore qui repetait. J'aurais aimer, l'oeuvre disposait différente bande sonore à difféernts moment de la morne. Par exemple, le matin, l'apres-midi, se soir et la nuit aurait chacun une different bande sonore qui sera jouer. 
-
+Je n'ai pas aimé le fait que l'œuvre était petite en largeur. Il n'y avait pas beaucoup de place pour se déplacer à l'intérieur de l'œuvre. Lorsqu'il y a plusieurs personne qui essayait en même temps, des fois, il n'y a pas assez de place pour se déplacer et interagir avec l'autre. De plus, je n'ai pas aimé le fait que l'œuvre avait la même bande sonore qui répétait. J'aurais aimé, l'œuvre disposait différentes bandes sonores à différents moments de la journée. Par exemple, le matin, l'après-midi, ce soir et la nuit auraient chacun des différentes bandes sonores qui sera joué.
 ## Liens avec autres oeuvres
 
-L'oeuvre éatit n'est similaire à aucune des oeuvre vuées jusqua present dans cette session.
+L'œuvre n'est pas similaire à aucune des œuvres vue jusqu'à présent dans cette session.
 
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
