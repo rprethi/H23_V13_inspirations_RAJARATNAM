@@ -206,7 +206,7 @@ Les visiteurs peuvent engouffrer à l'intérieur de l'œuvre, ils doivent marche
 
 J'ai adoré le thème de l'œuvre. Le thème de l'œuvre était le réchauffement climatique. Je trouvais que cette œuvre rend vraiment la population sensible à l'idée du changement climatique de la planète. De plus, j'ai adoré que l'œuvre était interactive, car elle permet de réunir la population et d'interagir avec celle-ci en ayant du plaisir. Les éléments techniques de l'œuvre sont très intéressants puisque l'œuvre est composée de plusieurs éléments qui permettent les visiteurs d'interagir avec celle-ci.
 
-## Ce qui m'a pas plu
+## Ce qui ne m'a pas plu
 
 Je n'ai pas aimé le fait que l'œuvre était petite en largeur. Il n'y avait pas beaucoup de place pour se déplacer à l'intérieur de l'œuvre. Lorsqu'il y a plusieurs personne qui essayait en même temps, des fois, il n'y a pas assez de place pour se déplacer et interagir avec l'autre. De plus, je n'ai pas aimé le fait que l'œuvre avait la même bande sonore qui répétait. J'aurais aimé, l'œuvre disposait différentes bandes sonores à différents moments de la journée. Par exemple, le matin, l'après-midi, ce soir et la nuit auraient chacun des différentes bandes sonores qui sera joué.
 ## Liens avec autres oeuvres
