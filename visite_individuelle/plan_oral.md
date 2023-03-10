@@ -179,7 +179,8 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 
 ## Le transport de l'oeuvre
 
-*
+* L'oeuvre sera transportée dans un camion, bateau et avion.
+* L'oeuvre sera placée dans une caisse en bois pour ne pas endommager l'oeuvre
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -189,6 +190,17 @@ relier la structure ensemble. À cause de la neige, les plaques d'aluminium sont
 ![iceberg_composante_03](https://user-images.githubusercontent.com/112189908/222937506-0491c4c8-8da1-4897-b726-f5a0ed7a4749.jpg)
 
 ## Expérience vécue
+
+## Expérience attendu des visiteurs
+
+Les visiteurs peuvent engouffrer à l'intérieur de l'oeuvre, ils doivent marcher pour voir l'oeuvre réagir à leur présence. L'oeuvre est composée de lumières Del blues 
+et lorsquùn visiteur pénètre à l'intérieur de l'oeuvre les lumières Del bleues placées a l'intérieur des prolifé d'aluminium deviennnent rouges. Autrement dit, les 
+lumières deviennent rouges cause par la chaleur humaine. Grace au capteur de mouvement, l'oeuvre déclanche une bande sonore ainsi que des effets sonores lorsque les 
+vistieurs traverse l'oeuvre.
+
+## Mon expérience de l'oeuvre
+
+J'ai adoré l'oeuvre. J'ai trouvé que l'oeuvre était très intéressante.
 
 ## Posture du visiteur
 
