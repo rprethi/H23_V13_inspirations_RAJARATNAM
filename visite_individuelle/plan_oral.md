@@ -59,7 +59,7 @@ Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre
 
 ### Informations complémentaires sur le type d'exposition
 
-* Pour l’édition 2013-2014 de Plaisirs d’hiver, qui s’est terminée le 4 janvier, Bruxelles a accueilli Iceberg. 
+* Pour l’édition 2013-2014 de Plaisirs d’hiver, Bruxelles a accueilli Iceberg. 
 * C'est une oeuvre qui se déplace et qui est diffusée à Montréal pendant l'hiver pour quelques jours.
 * De plus, elle est thématique du réchauffement climatique.
 
