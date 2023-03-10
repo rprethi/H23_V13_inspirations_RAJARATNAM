@@ -20,8 +20,7 @@ Le lieu de mise en exposition est la salle noire dans le musée Arsenal.
 
 Cette exposition est la combinaison de trois types d'exposition.
 
-* Itinérante
-* Virtuelle
+* Temporelle
 * Intérieure
 
 ## Date de ma visite
