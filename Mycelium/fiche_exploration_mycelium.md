@@ -126,7 +126,7 @@
 
 * Echomarine
 
-Mon projet préféré est Echomarine. J’ai vraiment adoré l’œuvre et celle-ci m’a vraiment inspiré. J’ai beaucoup aimé le concept des animaux marins en voie d'extinction. Je trouve que cette œuvre est simple et très intéressante. Je trouve que cette œuvre rassemble est gens de tout type d’âge et elle sensibilise la population des animaux marins. Je trouve que cette œuvre est très créative grâce aux animations des animaux en 2D. Cette œuvre est très intéressante et le concept est très original. Je trouve que les créatrices de l’œuvre ont bien exécuté le projet. De plus, la musique d’ambiance est très intéressante et rend les utilisateurs intrigués par celle-ci. Bref, ce projet est l’un de mes favoris !
+Mon projet préféré est Echomarine. J’ai vraiment adoré l’œuvre et celle-ci m’a vraiment inspiré. J’ai beaucoup aimé le concept des animaux marins en voie d'extinction. Je trouve que cette œuvre est simple et très intéressante. Je trouve que cette œuvre rassemble est gens de tous les types d’âge et elle sensibilise la population des animaux marins. Je trouve que cette œuvre est très créative grâce aux animations des animaux en 2D. Cette œuvre est très intéressante et le concept est très original. Je trouve que les créatrices de l’œuvre ont bien exécuté le projet. De plus, la musique d’ambiance est très intéressante et rend les utilisateurs intrigués par celle-ci. Bref, ce projet est l’un de mes favoris !
 
 ## Mon expérience d'intéraction avec les projets
 
@@ -135,8 +135,8 @@ Mon projet préféré est Echomarine. J’ai vraiment adoré l’œuvre et celle
 Echomarine est une œuvre qui a été créée par les étudiantes TIM de 3e année. L’œuvre nous donne un aperçu de la beauté des fonds marins et aussi de sa population en 
 menace d’extinction. L’œuvre est composée d’animation 2d des animaux marins avec Adobe After Effects, des projecteurs, des câbles, des fils, un IPad et des murs de 
 projections. J’ai adoré mon expérience avec l’œuvre, j’ai trouvé que l’œuvre était très intéressante. Je trouvais que l’animation était très bien faite. J’ai aimé le 
-fait que les utilisateurs puissent choisir l’animal marin qui apparaît sur les murs. J’aurais aimé s’il y avait d’autre animaux marins que l’on puisse choisir et 
-j’aurai aimé si la description de l’animal apparaît sur l’écran de l’iPad lorsque l’on choisit un animal marin. J’aurais aussi aimé si on avait des quelques casques
+fait que les utilisateurs puissent choisir l’animal marin qui apparaît sur les murs. J’aurais aimé s’il y avait d’autres animaux marins que l’on puisse choisir et 
+j’aurais aimé si on pouvait entendre les bruits des animaux sur l’écran de l’iPad lorsque l’on choisit un animal marin. J’aurais aussi aimé si on avait des quelques casques
 audios pour écouter un petit documentaire sur les animaux en voie d’extinction. J’ai vraiment aimé l’ambiance de la musique et des animations sur les murs, j’ai 
 vraiment adoré mon expérience avec l’œuvre. J’avais eu la possibilité de choisir un animal pour apparaître sur les murs. J’ai vraiment aimé mon interaction avec celle 
 ci.
@@ -157,12 +157,12 @@ de pouvoir essayer l’œuvre, car pendant ma visite, le vélo stationnaire éta
 ce démarque des autres, car elle fait bouger les utilisateurs. Il faut pédaler pour que les lumières s’allument et la musique joue. Je trouve que c’est un très bon 
 concept. Malheureusement, je ne pouvais pas l’essayer à cause des circonstances de l’emprunt de matériel. J’ai vraiment aimé les musiques qu’ils ont créées pour cette 
 œuvre. En parlant avec les créateurs de l’œuvre, ils m’ont informé que la musique changeait à chaque saison. Je trouve que le concept est bon, mais j’aurais aimé si on 
-pouvait connecter plusieurs vélos stationnaires à l’œuvre. En augmentant le nombre de vélos stationnaire, et incitera a essayer l’œuvre en groupe. Bref, après avoir vu 
+pouvait connecter plusieurs vélos stationnaires à l’œuvre. En augmentant le nombre de vélos stationnaires, et incitera à essayer l’œuvre en groupe. Bref, après avoir vu 
 l’œuvre, elle me donne envie de l’essayer à chaque saison. 
 
 ### Boucler la boucle
 
-Boucler la boucle est une expérience lumineuse avec des animations et une ambiance musicale. Lorsque que j’ai visité l’œuvre, je trouvais que les créateurs ont bien 
+Boucler la boucle est une expérience lumineuse avec des animations et une ambiance musicale. Lorsque j’ai visité l’œuvre, je trouvais que les créateurs avaient bien 
 expliqué leur projet. J’ai eu la chance de pouvoir analyser le code QR pour diffuser des animations sur mon téléphone. J’ai adoré les animations qu’ils ont créées. Je 
 trouve que le projet est simple et minimaliste. Je trouve que ce projet est parfait pour toutes les conditions météorologiques. Personnellement, je n’ai pas vraiment 
 aimé cette œuvre. Mais je trouvais que le concept était bon. Mais j’ai adoré que l’on puisse analyser le code QR pour voir une animation. Je trouve que cela est une 
@@ -171,7 +171,7 @@ humains.
 
 ### Zodie-Gal
 
-Malheureusement, l’œuvre Zodie-Gal n’était pas présentée lors de ma visite. Mais en basant sur le site de TIM Montmorency, j’ai trouvé plus d’information sur cette 
+Malheureusement, l’œuvre Zodie-Gal n’était pas présentée lors de ma visite. Mais en basant sur le site de TIM Montmorency, j’ai trouvé plus d’informations sur cette 
 œuvre. J’ai aimé le concept de l’œuvre. Le concept des signes zodiaques est très original. De plus, l’œuvre a été réalisée par une seule personne ! Malheureusement, je 
 ne suis pas vraiment intéressée par cette œuvre. Je trouve que les idées et les démarches utilisées par la créatrice sont bonnes, mais je trouve que cette œuvre ne 
 m’intéresse pas. Je ne suis pas vraiment intéressé sur les projets des jeux, mais je pense que cela aurait été bien si on pouvait rencontrer la créatrice et voir 
