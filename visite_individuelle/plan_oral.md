@@ -22,7 +22,7 @@ sonores à grande échelle pour les espaces publics. Luminothérapie vise à ins
 
 ### Plan de Luminothérapie
 
-Quartier des Spectacles accueil la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives 4 projections de 
+Quartier des Spectacles a accueilli la 13e édition de Luminothérapie du 1er décembre 2022 au 5 mars 2023. Il comprend 6 œuvres lumineuses interactives 4 projections de 
 vidéos originales et un parcours d'expériences interactives sur glace. 
 
 ![iceberg_affiche_04](https://user-images.githubusercontent.com/112189908/224175967-46056046-51bf-44c8-a401-21e054df4c70.JPG)
@@ -55,7 +55,7 @@ Le lieu de mise en exposition dans l'esplanade de la Place des Arts à Montréal
 * Temporaire
 * Extérieure
 
-Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est créee par ATOMIC3 et 
+Iceberg est une installation temporaire et extérieure. Iceberg est une exposition qui est présentée pendant une durée limitée. L’installation est créée par ATOMIC3 et 
 Appareil Architecture qui a vu le jour sur la place des Festivals, dans le cadre de l’édition 2012-2013 du concours Luminothérapie. 
 
 ### Informations complémentaires sur le type d'exposition
@@ -95,7 +95,7 @@ Iceberg - Luminothérapie, 13e édition
 * Conception architecturale : APPAREIL architecture
 * Conception sonore : Jean-Sébastien Côté
 * Conception des modules interactifs : Philippe Jean
-* Coproduction: ATOMIC3 et du Partenariat du Quartier des spectacles et en codiffusion avec la Place des Arts
+* Coproduction : ATOMIC3 et du Partenariat du Quartier des spectacles et en codiffusion avec la Place des Arts
 
 [Source artistes et firmes](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 
@@ -105,7 +105,7 @@ Cette oeuvre a été réalisée en 2012-2013.
 
 ## Description de l'oeuvre ou du dispositif
 
-L'iceberg est comme un instrument de musique géant. Les arches métalliques sur la face inférieure de l'iceberg sont comme les haut-parleurs. Ils diffusent des sons spécifiques et les gens peuvent entrer dans le tunnel et écouter. Le son est vraiment fort et il voyage d'un bout à l'autre du tunnel. Grâce à des détecteurs de mouvement et des sources lumineuses sous chaque arche, les visiteurs peuvent jouer de l'orgue en transformant les sons et la lumière produits par les arches. L'orgue est à l'état "naturel" où le son et la lumière évoquent la pureté boréale, mais il se transforme quand il fait chaud, comme un iceberg. L'installation comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La lumière est destinée à rappeler aux téléspectateurs les dangers du changement climatique et à les encourager à réfléchir sur celle-ci.
+L'iceberg est comme un instrument de musique géant. Les arches métalliques sur la face inférieure de l'iceberg sont comme les haut-parleurs. Ils diffusent des sons spécifiques et les gens peuvent entrer dans le tunnel et écouter. Le son est vraiment fort et il voyage d'un bout à l'autre du tunnel. Grâce à des détecteurs de mouvements et des sources lumineuses sous chaque arche, les visiteurs peuvent jouer de l'orgue en transformant les sons et la lumière produits par les arches. L'orgue est à l'état "naturel" où le son et la lumière évoquent la pureté boréale, mais il se transforme quand il fait chaud, comme un iceberg. L'installation comprend une grande sculpture de glace éclairée d'une lumière rouge vif. La lumière est destinée à rappeler aux téléspectateurs les dangers du changement climatique et à les encourager à réfléchir sur celle-ci.
 
 * Nombre d’arches : 14
 * Poids de la base : 2 850 livres (1 293 kilos)
@@ -130,7 +130,7 @@ L'iceberg est comme un instrument de musique géant. Les arches métalliques sur
 * Interactive
 
 Iceberg est une œuvre interactive avec laquelle les gens peuvent interagir. Lorsqu'une personne passe sous l'oeuvre, des sons sortent des arches et une lumière rouge 
-apparaît. Les gens peuvent également toucher l'œuvre et interagir avec elle. De plus, l'œuvre est dotée de détecteurs de mouvement qui peuvent être activés par les 
+apparaît. Les gens peuvent également toucher l'œuvre et interagir avec elle. De plus, l'œuvre est dotée de détecteurs de mouvements qui peuvent être activés par les 
 passants.
 
 [![Type d'installation](http://img.youtube.com/vi/EJr9QHDsiPY/0.jpg)](http://www.youtube.com/watch?v=EJr9QHDsiPY)
@@ -157,7 +157,7 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 * Des haut-parleurs
 * Des capteurs de mouvement
 * Des profilés d'aluminium de 3 @ 12"
-* Des tube en aluminum pour les passages des fils
+* Des tubes en aluminium pour les passages des fils
 * Des plaques d'aluminium pour relier la structure ensemble
 * Des clous pour relier la structure ensemble
 * Des fils
@@ -174,11 +174,11 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 ## Le transport de l'oeuvre
 
 * L'oeuvre sera transportée dans un camion, bateau et avion.
-* L'oeuvre sera placée dans une caisse en bois pour ne pas endommager l'oeuvre
+* L'oeuvre sera placée dans une caisse en bois pour ne pas endommager l'oeuvre.
 
 ## Éléments nécessaires à la mise en exposition
 
-Le Quartier de spectacle n'a pas mis en place des éléments pour que l'œuvre ou le dispositif soit exposé. L'œuvre est déjà composée de plaques d'aluminium pour relier 
+Le Quartier de spectacle n'a pas mis en place des éléments pour que l'œuvre soit exposé. L'œuvre est déjà composée de plaques d'aluminium pour relier 
 la structure ensemble. À cause de la neige, les plaques d'aluminium sont cachées. La pesanteur de l'œuvre rend l'œuvre stable au sol.
 
 ![iceberg_composante_03](https://user-images.githubusercontent.com/112189908/222937506-0491c4c8-8da1-4897-b726-f5a0ed7a4749.jpg)
@@ -194,7 +194,7 @@ lorsque les visiteurs traversent l'œuvre.
 
 ### Mon expérience de l'oeuvre
 
-Les visiteurs peuvent engouffrer à l'intérieur de l'œuvre, ils doivent marcher pour voir l'œuvre réagir à leur présence. L'œuvre est composée de lumières Del blues et lorsqu'un visiteur pénètre à l'intérieur de l'œuvre les lumières Del bleues placées à l'intérieur des profilés d'aluminium rouges. Autrement dit, les lumières bleues changent de couleur pour devenir rouge cause par la chaleur humaine. Grâce au capteur de mouvement, l'œuvre déclenche une bande sonore ainsi que des effets sonores lorsque les visiteurs traversent l'œuvre.
+Les visiteurs peuvent engouffrer à l'intérieur de l'œuvre, ils doivent marcher pour voir l'œuvre réagir à leur présence. L'œuvre est composée de lumières Del blues et lorsqu'un visiteur pénètre à l'intérieur de l'œuvre les lumières Del bleues placées à l'intérieur des profilés d'aluminium rouge. Autrement dit, les lumières bleues changent de couleur pour devenir rouge cause par la chaleur humaine. Grâce au capteur de mouvement, l'œuvre déclenche une bande sonore ainsi que des effets sonores lorsque les visiteurs traversent l'œuvre.
 
 ## Posture du visiteur
 
@@ -208,10 +208,11 @@ J'ai adoré le thème de l'œuvre. Le thème de l'œuvre était le réchauffemen
 
 ## Ce qui ne m'a pas plu
 
-Je n'ai pas aimé le fait que l'œuvre était petite en largeur. Il n'y avait pas beaucoup de place pour se déplacer à l'intérieur de l'œuvre. Lorsqu'il y a plusieurs personne qui essayait en même temps, des fois, il n'y a pas assez de place pour se déplacer et interagir avec l'autre. De plus, je n'ai pas aimé le fait que l'œuvre avait la même bande sonore qui répétait. J'aurais aimé, l'œuvre disposait différentes bandes sonores à différents moments de la journée. Par exemple, le matin, l'après-midi, ce soir et la nuit auraient chacun des différentes bandes sonores qui sera joué.
+Je n'ai pas aimé le fait que l'œuvre était petite en largeur. Il n'y avait pas beaucoup de place pour se déplacer à l'intérieur de l'œuvre. Lorsqu'il y a plusieurs personne qui essayait en même temps, des fois, il n'y a pas assez de place pour se déplacer et interagir avec l'autre. De plus, je n'ai pas aimé le fait que l'œuvre avait la même bande sonore qui répétait. J'aurais aimé, l'œuvre disposait différentes bandes sonores à différents moments de la journée. Par exemple, le matin, l'après-midi, ce soir et la nuit auraient chacune des différentes bandes sonores qui sera joué.
+
 ## Liens avec autres oeuvres
 
-L'œuvre n'est pas similaire à aucune des œuvres vue jusqu'à présent dans cette session.
+L'œuvre n'est pas similaire à aucune des œuvres vues jusqu'à présent dans cette session.
 
 # Conclusion 
 
