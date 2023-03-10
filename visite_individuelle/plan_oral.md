@@ -2,7 +2,7 @@
 
 # Introduction
 
-Au Québec, plusieurs événements montréalais sensibilisent la population en créant des œuvres thématiques à plusieurs enjeux dans la société. Luminothérapie, un événement présentant plusieurs œuvres interactives est encore une fois présenté cette année au Quartier des spectacles à Montréal.
+Au Québec, plusieurs événements montréalais sensibilisent la population en créant des œuvres thématiques à plusieurs enjeux dans la société. Luminothérapie, un événement présentant plusieurs œuvres interactives est encore une fois présenté cette année au Quartier des spectacles à Montréal. Iceberg Luminothérapie, est de retour ! Iceberg, une œuvre thématique du réchauffement climatique, est présenté à l’esplanade de Montréal pour la 13e édition de celle-ci. Elle offre la possibilité aux Montréalais d’interagir avec celle-ci et explorer les diverses œuvres présentées au Quartier des spectacles.
 
 # Développement 
 ## Nom de l'exposition ou de l'événement
