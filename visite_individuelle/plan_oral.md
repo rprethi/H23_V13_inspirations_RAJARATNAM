@@ -151,6 +151,8 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 
 ![iceberg_croquis](https://user-images.githubusercontent.com/112189908/222937349-deba8bad-f245-4afd-9568-85a959ea8789.jpg)
 
+![iceberg_croquis_02](https://user-images.githubusercontent.com/112189908/224389093-d2e0591d-8789-408b-a4c5-4d188154e0d6.jpg)
+
 ## Composantes et techniques
 
 * Des luminaires Del
