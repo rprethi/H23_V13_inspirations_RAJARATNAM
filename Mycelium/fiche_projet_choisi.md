@@ -16,6 +16,8 @@ Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmor
 
 ## Date de ma visite
 
+La date de ma viste est le 23 mars 2023 vers 19:30PM.
+
 ## Titre de l'œuvre 
 
 Le titre de l'oeuvre est LumaSol.
@@ -66,4 +68,3 @@ Elle est réalisé en 2023 pendant la session d'hiver 2023. Elle a été réalis
 ## Les éléments que j'ai moins apprécié de l'oeuvre
 
 ## Sources
-
