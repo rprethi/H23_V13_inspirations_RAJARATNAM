@@ -52,7 +52,7 @@
 
 ### Description du projet
 
-Au cours de la visite du studio, l'équipe nous a présenté un prototype de leur prochaine installation. Bien que l'installation finale soit beaucoup plus grande, les capteurs de mouvement étaient déjà en place. En nous tenant à des côtés opposés de l'installation, nous avons pu observer comment les lumières et les sons se sont harmonisés pour créer une ambiance immersive qui nous a transporté dans un monde fantastique. Le capteur de mouvement a permis à une personne de déclencher un son et une lumière, puis deux autres personnes ont rejoint l'expérience pour créer la musique finale. Cette expérience a été un exemple frappant de la façon dont la participation des spectateurs peut donner vie à une œuvre d'art et créer une expérience unique et personnalisée pour chacun.
+Au cours de la visite du studio, l'équipe nous a présenté un prototype de leur prochaine installation. Bien que l'installation finale soit beaucoup plus grande, les capteurs de mouvement étaient déjà en place. En nous tenant à des côtés opposés de l'installation, nous avons pu observer comment les lumières et les sons se sont harmonisés pour créer une ambiance immersive qui nous a transporté dans un monde fantastique. Le capteur de mouvement a permis à une personne de déclencher un son et une lumière, puis trois autres personnes ont rejoint l'expérience pour créer la musique finale. Cette expérience a été un exemple frappant de la façon dont la participation des spectateurs peut donner vie à une œuvre d'art et créer une expérience unique et personnalisée pour chacun.
 
 * Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
