@@ -6,4 +6,4 @@ Le travail de Raphael Lozano est basé sur la dimension participative : il consi
 
 La visite de Karine Charbonneau a été très instructive car elle nous a permis de découvrir les différentes étapes du développement d'un projet numérique et les considérations nécessaires pour sa mise en exposition. Ce qui m'a particulièrement intéressé, c'est sa recommandation d'une documentation rigoureuse tout au long du processus de création des oeuvres numériques. Cela permet non seulement de garder une trace des différentes décisions prises, mais aussi d'offrir aux visiteurs de l'exposition une perspective unique sur la création de l'oeuvre. En somme, cette visite nous a donné un aperçu fascinant du monde de la création numérique et de l'importance de la documentation dans ce domaine.
 
-Nombre de mots: 392 mots
+**Nombre de mots: 392 mots**
