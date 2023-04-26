@@ -1,54 +1,6 @@
 # TIM Mycélium
 
-## Echomarine
-
-* Créatrices: Florence Lapierre,Natacha Abdallah, Tracy Gua et Maria Laura Coronel
-
-* Lien du projet: [TIM Mycélium Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
-
-### Schéma de l'installation prévue
-
-![schema_economatrine](https://user-images.githubusercontent.com/112189908/221075992-0f73746e-d9cf-49ce-938a-5ca7e5398c4c.jpg)
-
-[Source Photo](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
-
-### Photos de l'installation en cours dans les studios
-
-![echomarine_installation_01](https://user-images.githubusercontent.com/112189908/221075150-b13e7ed8-b20a-462b-90f2-fd6e31e5b8f0.jpg)
-
-![echomarine_installation_02](https://user-images.githubusercontent.com/112189908/221075355-51c86d2c-f557-4f2f-9e4e-f226a8d654f3.jpg)
-
-![echomarine_installation_03](https://user-images.githubusercontent.com/112189908/221075374-8fbb926b-c9b4-4a51-9386-3be3e5184425.jpg)
-
-### Vidéo de l'installation en cours dans les studios
-
-[![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
-
-## ENTRE FUNGUS/EDRIA
-
-* Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
-
-* Lien du projet: [TIM Mycélium ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
-
-### Schéma de l'installation prévue
-
-![schema_entre_fungus](https://user-images.githubusercontent.com/112189908/219826167-7be58559-7f06-4ffc-a851-3842978f1e3e.png)
-
-[Source Photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
-
-### Photos et Vidéo de l'installation en cours dans les studios
-
-![edria_installation_01](https://user-images.githubusercontent.com/112189908/221075512-d7fa87c1-798e-4811-90a3-021059b17ca9.jpg)
-
-![edria_installation_02](https://user-images.githubusercontent.com/112189908/221075534-8b9e1727-62c5-44bc-827f-799af76a4232.jpg)
-
-![edria_installation_03](https://user-images.githubusercontent.com/112189908/221075543-c07471e9-2f4a-42db-8888-6c05cb5776b4.jpg)
-
-### Vidéo de l'installation en cours dans les studios
-
-[![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
-
-## Luma Sol
+## 1- Luma Sol
 
 * Créateurs: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
@@ -72,7 +24,55 @@
 
 [![Vidéo Youtube Luma Sol](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo)
 
-## Boucler la boucle
+## 2- Echomarine
+
+* Créatrices: Florence Lapierre,Natacha Abdallah, Tracy Gua et Maria Laura Coronel
+
+* Lien du projet: [TIM Mycélium Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+
+### Schéma de l'installation prévue
+
+![schema_economatrine](https://user-images.githubusercontent.com/112189908/221075992-0f73746e-d9cf-49ce-938a-5ca7e5398c4c.jpg)
+
+[Source Photo](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html)
+
+### Photos de l'installation en cours dans les studios
+
+![echomarine_installation_01](https://user-images.githubusercontent.com/112189908/221075150-b13e7ed8-b20a-462b-90f2-fd6e31e5b8f0.jpg)
+
+![echomarine_installation_02](https://user-images.githubusercontent.com/112189908/221075355-51c86d2c-f557-4f2f-9e4e-f226a8d654f3.jpg)
+
+![echomarine_installation_03](https://user-images.githubusercontent.com/112189908/221075374-8fbb926b-c9b4-4a51-9386-3be3e5184425.jpg)
+
+### Vidéo de l'installation en cours dans les studios
+
+[![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
+
+## 3- ENTRE FUNGUS/EDRIA
+
+* Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
+
+* Lien du projet: [TIM Mycélium ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
+
+### Schéma de l'installation prévue
+
+![schema_entre_fungus](https://user-images.githubusercontent.com/112189908/219826167-7be58559-7f06-4ffc-a851-3842978f1e3e.png)
+
+[Source Photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
+
+### Photos et Vidéo de l'installation en cours dans les studios
+
+![edria_installation_01](https://user-images.githubusercontent.com/112189908/221075512-d7fa87c1-798e-4811-90a3-021059b17ca9.jpg)
+
+![edria_installation_02](https://user-images.githubusercontent.com/112189908/221075534-8b9e1727-62c5-44bc-827f-799af76a4232.jpg)
+
+![edria_installation_03](https://user-images.githubusercontent.com/112189908/221075543-c07471e9-2f4a-42db-8888-6c05cb5776b4.jpg)
+
+### Vidéo de l'installation en cours dans les studios
+
+[![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
+
+## 4- Boucler la boucle
 
 * Créateurs: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
@@ -96,7 +96,7 @@
 
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
 
-## Zodie-Gal
+## 5- Zodie-Gal
 
 * Créatrice: Abdanor Yara
 
@@ -110,17 +110,6 @@
 
 ### Photos de l'installation en cours dans les studios
 
-## Ordre des projets par préférence
-
-1- Echomarine
-
-2- Luma Sol 
-
-3- Boucler la boucle
-
-4- Entre Fungus
-
-5- Zodie-Gal
 
 ## Mon projet préféré
 
