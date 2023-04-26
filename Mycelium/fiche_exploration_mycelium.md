@@ -50,6 +50,10 @@
 
 ## 3- ENTRE FUNGUS/EDRIA
 
+## Description du projet
+
+Pendant la visite des studios, l'équipe nous a présenté le prototype de leur installation. Bien que cette maquette ne soit que la moitié de la taille de l'installation finale, les capteurs de mouvement étaient déjà en place. Lorsque trois personnes se tenaient à des endroits différents de l'installation, les lumières et les sons s'harmonisaient pour créer une musique qui nous transportait dans une ambiance fantastique de forêt. Grâce aux capteurs de mouvement, une personne a pu activer un son et une lumière, puis deux autres personnes ont rejoint l'expérience pour créer la musique finale. Ce prototype a été conçu pour tester les fonctionnalités de l'installation finale et pour donner un avant-goût de ce que les visiteurs pourront vivre.
+
 * Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
 * Lien du projet: [TIM Mycélium ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
