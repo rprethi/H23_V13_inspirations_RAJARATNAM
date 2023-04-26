@@ -76,6 +76,10 @@ Au cours de la visite du studio, l'équipe nous a présenté un prototype de leu
 
 [![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
 
+### Mon appréciation du projet
+
+Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position. Ce n'est pas parce qu'elle n'était pas intéressante, bien au contraire, mais plutôt parce que les deux autres œuvres étaient encore plus impressionnantes. Néanmoins, j'ai été émerveillé par les jeux de lumière qui variaient selon l'endroit où nous nous placions autour de la structure, ainsi que par les sons qui se coordonnaient parfaitement avec les lumières. J'était fasciné par la façon dont l'art peut être transformé en une expérience interactive qui capte l'imagination et les sens du visiteur. C'est génial de voir comment les artistes utilisent la technologie pour créer des installations qui suscitent l'interaction et la participation des visiteurs. Le projet d'Edria est un parfait exemple de cela. Il est vraiment impressionnant de voir comment les différentes lumières et sons se mélangent pour créer une expérience qui nous transporte dans un univers fantastique. Ce genre d'œuvre est particulièrement intéressante pour attirer des personnes qui ne sont pas forcément des amateurs d'art. Il suffit de se laisser emporter par la musique et les lumières pour apprécier l'œuvre. C'est une véritable réussite artistique qui rend l'art accessible et amusant pour tous. 
+
 ## 4- Boucler la boucle
 
 * Créateurs: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
@@ -99,10 +103,6 @@ Au cours de la visite du studio, l'équipe nous a présenté un prototype de leu
 ### Vidéo de l'installation en cours dans les studios
 
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
-
-### Mon appréciation du projet
-
-Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position. Ce n'est pas parce qu'elle n'était pas intéressante, bien au contraire, mais plutôt parce que les deux autres œuvres étaient encore plus impressionnantes. Néanmoins, j'ai été émerveillé par les jeux de lumière qui variaient selon l'endroit où nous nous placions autour de la structure, ainsi que par les sons qui se coordonnaient parfaitement avec les lumières. J'était fasciné par la façon dont l'art peut être transformé en une expérience interactive qui capte l'imagination et les sens du visiteur. C'est génial de voir comment les artistes utilisent la technologie pour créer des installations qui suscitent l'interaction et la participation des visiteurs. Le projet d'Edria est un parfait exemple de cela. Il est vraiment impressionnant de voir comment les différentes lumières et sons se mélangent pour créer une expérience qui nous transporte dans un univers fantastique. Ce genre d'œuvre est particulièrement intéressante pour attirer des personnes qui ne sont pas forcément des amateurs d'art. Il suffit de se laisser emporter par la musique et les lumières pour apprécier l'œuvre. C'est une véritable réussite artistique qui rend l'art accessible et amusant pour tous. 
 
 ## 5- Zodie-Gal
 
