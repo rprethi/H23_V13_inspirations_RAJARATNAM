@@ -1,1 +1,1 @@
-TP1B: Écouter, s'informer et prendre des notes sur sur les conférences donnés par Kaine Charbonneau et Yanik Daunais.
+TP1B: Effectuer l'écoute active, se renseigner et noter les points clés des présentations données par Karine Charbonneau et Yanik Daunais.
