@@ -50,9 +50,9 @@
 
 ## 3- ENTRE FUNGUS/EDRIA
 
-## Description du projet
+### Description du projet
 
-Pendant la visite des studios, l'équipe nous a présenté le prototype de leur installation. Bien que cette maquette ne soit que la moitié de la taille de l'installation finale, les capteurs de mouvement étaient déjà en place. Lorsque trois personnes se tenaient à des endroits différents de l'installation, les lumières et les sons s'harmonisaient pour créer une musique qui nous transportait dans une ambiance fantastique de forêt. Grâce aux capteurs de mouvement, une personne a pu activer un son et une lumière, puis deux autres personnes ont rejoint l'expérience pour créer la musique finale. Ce prototype a été conçu pour tester les fonctionnalités de l'installation finale et pour donner un avant-goût de ce que les visiteurs pourront vivre.
+Au cours de la visite du studio, l'équipe nous a présenté un prototype de leur prochaine installation. Bien que l'installation finale soit beaucoup plus grande, les capteurs de mouvement étaient déjà en place. En nous tenant à des côtés opposés de l'installation, nous avons pu observer comment les lumières et les sons se sont harmonisés pour créer une ambiance immersive qui nous a transporté dans un monde fantastique. Le capteur de mouvement a permis à une personne de déclencher un son et une lumière, puis deux autres personnes ont rejoint l'expérience pour créer la musique finale. Cette expérience a été un exemple frappant de la façon dont la participation des spectateurs peut donner vie à une œuvre d'art et créer une expérience unique et personnalisée pour chacun.
 
 * Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
@@ -99,6 +99,10 @@ Pendant la visite des studios, l'équipe nous a présenté le prototype de leur 
 ### Vidéo de l'installation en cours dans les studios
 
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
+
+### Mon appréciation du projet
+
+Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position. Ce n'est pas parce qu'elle n'était pas intéressante, bien au contraire, mais plutôt parce que les deux autres œuvres étaient encore plus impressionnantes. Néanmoins, j'ai été émerveillé par les jeux de lumière qui variaient selon l'endroit où nous nous placions autour de la structure, ainsi que par les sons qui se coordonnaient parfaitement avec les lumières. J'était fasciné par la façon dont l'art peut être transformé en une expérience interactive qui capte l'imagination et les sens du visiteur. C'est génial de voir comment les artistes utilisent la technologie pour créer des installations qui suscitent l'interaction et la participation des visiteurs. Le projet d'Edria est un parfait exemple de cela. Il est vraiment impressionnant de voir comment les différentes lumières et sons se mélangent pour créer une expérience qui nous transporte dans un univers fantastique. Ce genre d'œuvre est particulièrement intéressante pour attirer des personnes qui ne sont pas forcément des amateurs d'art. Il suffit de se laisser emporter par la musique et les lumières pour apprécier l'œuvre. C'est une véritable réussite artistique qui rend l'art accessible et amusant pour tous. 
 
 ## 5- Zodie-Gal
 
