@@ -4,4 +4,5 @@ Yanick Daunais est à la fois directeur général, associé et producteur chez H
 
 Yanik Daunais a organisé sa présentation en cinq étapes distinctes : déterminer l'objet de l'expérience, élaborer une trame narrative, planifier le temps, sélectionner les moyens techniques et technologiques, et gérer le budget et l'échéancier.
 
+Il explique l'importance de la communication entre le contenu et les moyens techniques dans la création d'une expérience. Il souligne que la technique doit être au service de l'art et du contenu et non l'inverse. Avant de créer une expérience, il est important de déterminer le message que l'on souhaite transmettre et l'objet du contenu. Il est également crucial de considérer le public cible et ses caractéristiques telles que l'âge, l'éducation, l'intérêt et le statut. La qualité essentielle d'un technicien est d'être curieux et d'être capable de répondre aux différentes questions telles que quoi, qui, comment, quand et combien. L'expérience créée doit permettre aux visiteurs de ressentir quelque chose et de vivre une expérience mémorable qui peut être partagée avec d'autres.
 
