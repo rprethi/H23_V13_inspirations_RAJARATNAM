@@ -102,3 +102,5 @@ Je trouve que l'emplacement de cette œuvre dans les espaces publics du collège
 Si j'avais la possibilité de rajouter un élément à l'œuvre, je choisirais d'ajouter des effets sonores et visuels pour attirer davantage les visiteurs lorsqu'il n'y a personne autour de la structure. Je pense que cela permettrait de rendre l'œuvre plus attractive et d'attirer l'attention des gens qui passent dans le couloir même s'ils ne sont pas directement devant l'œuvre. De plus, cela pourrait inciter les visiteurs à s'approcher de la structure et à interagir davantage avec elle. Je suggérerais également de créer des effets sonores plus complexes et des jeux de lumière plus élaborés pour apporter une variété supplémentaire aux effets déjà en place. Cela pourrait ajouter une dimension supplémentaire à l'œuvre, en la rendant plus immersive et en offrant une expérience plus complète pour les visiteurs.
 
 ## Sources
+* [EDRIA TIM](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+* [EDRIA Github](https://github.com/F-C-A/EDRIA)
