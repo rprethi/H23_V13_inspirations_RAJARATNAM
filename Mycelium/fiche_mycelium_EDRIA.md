@@ -4,13 +4,17 @@
 
 Le nom de l’exposition est Mycélium et le nom du projet est EDRIA.
 
-### Affiche d'exposition 
+### Affiche d'exposition
+
+![edria_affiche_exposition_01](https://user-images.githubusercontent.com/112189908/234984355-0755e0ce-d7dc-46a8-b561-905a59cccec7.png)
 
 ## Lieu de mise en exposition 
 
 Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle était située proche de l'entrée 1 du cégep Montmorency. Elle état situé au milieu de l’espace public dans le sentier aménagé près de la porte 1. La position de l'œuvre lui permet d'attirer l'attention des visiteurs dès leur arrivée et d'interagir avec elle en toute facilité. Le choix d'un emplacement au milieu d'un sentier aménagé crée également une ambiance plus naturelle et s'harmonise parfaitement avec la structure de l'œuvre
 
 ### Photo de moi devant l'oeuvre
+
+![edria_photo_prethiah](https://user-images.githubusercontent.com/112189908/234984057-da273e9f-44f9-44a4-a224-c75b98f0f66c.png)
 
 ## Type d’exposition 
 
@@ -38,6 +42,8 @@ Créateurs : Meryem Berbiche, Gabriel Leblanc,Elwin Durand, Loic Delorme, Domini
 
 ### Cartel
 
+![edria_cartel_01](https://user-images.githubusercontent.com/112189908/234984430-fda7183b-d985-469a-9b1f-b289b3d9ac7f.png)
+
 ## Année de réalisation  
 
 Elle est réalisé en 2023 pendant la session d'hiver 2023. Elle a été réalisée pendant une période de sept à neuf semaines.
@@ -47,6 +53,8 @@ Elle est réalisé en 2023 pendant la session d'hiver 2023. Elle a été réalis
 EDRIA est située dans l'espace publique au Cégep Montmorency et elle est entourée de verdure et d'arbres majestueux. Elle est composée de plusieurs structures, toutes disposées en cercle, avec l'une d'entre elles au centre. Cette structure centrale est celle qui permet l'interaction avec les visiteurs. Quatre capteurs de mouvement sont installés sur chaque côté de cette structure. Ces capteurs sont équipés de lumières et de sons différents, qui sont activés dès qu'ils détectent un mouvement. Chaque capteur produit des lumières et des sons différents, mais lorsqu'ils sont activés tous ensemble, ils créent un véritable spectacle son et lumière, qui enchante les visiteurs. La musique qui accompagne les lumières est rythmée et entraînante, ce qui incite les gens à danser et à bouger. La lumière est projetée dans toutes les directions, créant une atmosphère magique et envoûtante. Les visiteurs sont invités à participer à cette expérience unique, à se laisser emporter par les lumières et les sons, et à profiter pleinement de ce moment de détente et de plaisir. Cette œuvre d'art interactive est un véritable joyau dans ce parc public, et attire chaque jour de nombreux visiteurs, qui viennent profiter de cette expérience sensorielle unique.
 
 ### Cartel
+
+![edria_cartel_02](https://user-images.githubusercontent.com/112189908/234984457-c64d8c0f-7e07-43b7-b8f7-16414cf147b9.png)
 
 ### Diverses vues
 
@@ -67,6 +75,16 @@ Au milieu de l'espace public aménagé près de la porte 1 se trouve la structur
 ### Croquis
 
 ## Composantes et techniques 
+![edria_boule](https://user-images.githubusercontent.com/112189908/234984566-a7a12b03-79ba-4b32-9aba-74f5b1d2b49b.png)
+![edria_cabanon](https://user-images.githubusercontent.com/112189908/234984576-57e347c6-4ad9-4cb8-98cc-dc1781b4d6f4.png)
+![edria_cabanon_central](https://user-images.githubusercontent.com/112189908/234984589-ae4a967b-0c8c-4502-8653-c5eb77eb240c.png)
+![edria_capteur_mouvement](https://user-images.githubusercontent.com/112189908/234984595-54ae21ff-92cf-429a-b579-c111469d966a.png)
+![edria_fausse_plante](https://user-images.githubusercontent.com/112189908/234984606-0a5581b6-c206-427c-8af4-4c2a5b4e9b3b.png)
+![edria_fil_01](https://user-images.githubusercontent.com/112189908/234984618-84263582-364d-4643-8f61-88387e428de0.png)
+![edria_fil_02](https://user-images.githubusercontent.com/112189908/234984635-5352c3b4-66b6-494f-80bc-b3325399647d.png)
+![edria_fil_03](https://user-images.githubusercontent.com/112189908/234984658-6134c2b4-8b51-48d4-9d38-165025f87786.png)
+![edria_fil_04](https://user-images.githubusercontent.com/112189908/234984671-d201476d-d833-4776-92c4-8c5b8ae358f4.png)
+![edria_lumiere](https://user-images.githubusercontent.com/112189908/234984701-6621fe22-1cdb-4642-97d5-84d3a2768c1a.png)
 
 * Les quatre côtés de la structure centrale sont équipés de capteurs.
 * Pour rendre visible l'interaction entre l'œuvre d'art et les visiteurs, des lumières ont été installées. Afin d'améliorer l'esthétique de l'installation, des globes ont été ajoutés aux lumières. En plus de ces lumières, des bandes LED et des projecteurs ont été disposés sur chaque structure, créant ainsi des effets de lumière saisissants qui s'harmonisent parfaitement avec les sons produits par les capteurs de mouvement. Ces différentes sources lumineuses permettent de mettre en valeur les aspects les plus spectaculaires de l'installation, créant ainsi une ambiance unique et immersive pour les visiteurs.
