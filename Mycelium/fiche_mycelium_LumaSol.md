@@ -8,7 +8,7 @@ Le nom de l’exposition est Mycélium et le nom du projet est LumaSol.
 
 ## Lieu de mise en exposition 
 
-Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle était située proche de l'entrée 1 du cégep Montmorency
+Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle était située proche de l'entrée 1 du cégep Montmorency.
 
 ### Photo de moi devant l'oeuvre
 
