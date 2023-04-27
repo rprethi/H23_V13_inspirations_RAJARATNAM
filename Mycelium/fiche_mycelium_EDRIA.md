@@ -93,6 +93,8 @@ Au milieu de l'espace public aménagé près de la porte 1 se trouve la structur
 
 ### Croquis
 
+![edria_croquis](https://user-images.githubusercontent.com/112189908/234996673-9f1738a2-c310-4d23-9df5-65d2acaab3d3.png)
+
 ## Composantes et techniques 
 ![edria_boule](https://user-images.githubusercontent.com/112189908/234984566-a7a12b03-79ba-4b32-9aba-74f5b1d2b49b.png)
 ![edria_cabanon](https://user-images.githubusercontent.com/112189908/234984576-57e347c6-4ad9-4cb8-98cc-dc1781b4d6f4.png)
