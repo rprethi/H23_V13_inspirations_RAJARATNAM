@@ -73,6 +73,8 @@ Au milieu de l'espace public aménagé près de la porte 1 se trouve la structur
 
 ### Le transport de l'oeuvre
 
+Il est possible que pour certaines oeuvres, le transport se fasse en camions. Toutefois, pour l'oeuvre en question qui a été construite au Cégep Montmorency et mise en place dans l'espace public devant la porte 1, il est peu probable qu'elle ait nécessité un transport en camions. Il est plus probable que l'oeuvre a été transportée à l'aide de sacs de plastique et de caisses en bois, comme c'est souvent le cas pour les oeuvres exposées dans les musées. Cela permettrait une meilleure protection de l'oeuvre pendant le transport et assurerait qu'elle arrive en bon état à destination. 
+
 ## Éléments nécessaires à la mise en exposition
 
 Au cœur de l'installation artistique se trouve un cabanon, qui joue un rôle central dans le contrôle de l'œuvre. Ce cabanon abrite un Mac Mini, une carte de son, un amplificateur, ainsi que d'autres composantes essentielles au fonctionnement de l'installation. Le cabanon offre également une protection pour ces équipements sensibles, les préservant ainsi des intempéries et de toute autre source de dommage potentiel. Cette approche technologique permet de créer une installation artistique qui est à la fois esthétique et fonctionnelle, offrant ainsi une expérience unique et immersive pour les visiteurs.
@@ -83,7 +85,11 @@ L'installation artistique mise en place invite le visiteur à interagir avec ell
 
 ### Posture du visiteur
 
+L'interaction avec l'œuvre est un aspect clé de l'expérience du visiteur. En marchant autour de la structure, les visiteurs peuvent observer les différents effets de lumière et de son qui sont produits en fonction de leur position par rapport à la structure centrale. Cette interaction avec l'œuvre rend l'expérience plus mémorable pour les visiteurs et leur permet de découvrir l'art sous une nouvelle perspective. Les visiteurs peuvent également se sentir impliqués dans l'œuvre, car leur présence déclenche les effets visuels et sonores. Cette interaction permet de susciter la curiosité et l'engagement des visiteurs, les incitant à explorer et à découvrir les différentes facettes de l'œuvre. En somme, la possibilité pour les visiteurs de marcher autour de l'œuvre et d'interagir avec elle est un élément clé qui enrichit l'expérience globale et permet de la rendre mémorable pour tous les visiteurs.
+
 ### Les actions de l'oeuvre
+
+L'interaction de l'oeuvre avec les visiteurs est l'une des caractéristiques les plus fascinantes. Les visiteurs peuvent observer les jeux de lumières et les effets sonores qui se déclenchent lorsqu'ils s'approchent de l'oeuvre. En observant les réactions des visiteurs, il est possible de voir comment l'oeuvre prend vie et interagit avec son public. Mais c'est lorsque plusieurs personnes se rassemblent autour de l'oeuvre que les effets deviennent encore plus impressionnants. Les visiteurs peuvent expérimenter en groupe et essayer de déclencher encore plus de lumières et d'effets sonores. L'oeuvre devient alors une véritable source de divertissement et de plaisir pour les visiteurs. Cette interaction permet également de créer une ambiance unique et mémorable dans l'espace public où l'oeuvre est installée. La dynamique entre l'oeuvre et son public fait de cette expérience un moment unique et enrichissant pour tous ceux qui participent. En somme, l'interaction de l'oeuvre avec les visiteurs est une caractéristique essentielle qui rend cette création artistique particulièrement captivante et inoubliable.
 
 ## Les éléments que j'ai apprécié de l'oeuvre
 
