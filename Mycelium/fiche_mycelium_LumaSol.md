@@ -87,6 +87,10 @@ L'installation artistique mise en place invite le visiteur à interagir avec ell
 
 ## Les éléments que j'ai apprécié de l'oeuvre
 
+Je trouve que l'emplacement de cette œuvre dans les espaces publics du collège, en particulier devant une porte très fréquentée, est une excellente idée. Cela permet aux étudiants et aux visiteurs de découvrir l'œuvre et d'interagir avec elle facilement. Ce que j'apprécie le plus, c'est le niveau d'interactivité qu'elle offre aux visiteurs. Les capteurs de mouvement installés sur les quatre côtés de la structure centrale permettent de créer des effets sonores et lumineux différents en fonction de l'endroit où les personnes sont détectées. Cela offre une expérience unique à chaque visiteur et crée une atmosphère dynamique et stimulante autour de l'œuvre. De plus, la présence de faux arbustes sur les structures ajoute une touche naturelle à l'installation, ce qui contribue également à renforcer l'ambiance de l'œuvre. En somme, je suis impressionné par la conception et la mise en œuvre de cette installation artistique interactive.
+
 ## Les éléments que j'ai moins apprécié de l'oeuvre
+
+Si j'avais la possibilité de rajouter un élément à l'œuvre, je choisirais d'ajouter des effets sonores et visuels pour attirer davantage les visiteurs lorsqu'il n'y a personne autour de la structure. Je pense que cela permettrait de rendre l'œuvre plus attractive et d'attirer l'attention des gens qui passent dans le couloir même s'ils ne sont pas directement devant l'œuvre. De plus, cela pourrait inciter les visiteurs à s'approcher de la structure et à interagir davantage avec elle. Je suggérerais également de créer des effets sonores plus complexes et des jeux de lumière plus élaborés pour apporter une variété supplémentaire aux effets déjà en place. Cela pourrait ajouter une dimension supplémentaire à l'œuvre, en la rendant plus immersive et en offrant une expérience plus complète pour les visiteurs.
 
 ## Sources
