@@ -2,6 +2,10 @@
 
 ## 1- Luma Sol
 
+### Description du projet
+
+Le projet du vélo stationnaire m'a tout de suite interpellé. L'idée de pouvoir faire quelque chose de concret pour la nature tout en s'amusant est très attirante. Lorsque j'ai visité le studio, l'équipe avait installé un moteur sur un vélo stationnaire qui activait des lumières aux escaliers, créant une atmosphère magique. J'ai pu constater que le moteur avait des problèmes, mais l'équipe était déjà en train de travailler pour les régler. Ils prévoyaient également d'installer les lumières sur un arbre pour représenter les saisons de l'année. Ce projet interactif est une belle façon d'inciter les gens à prendre soin de la nature tout en leur offrant une expérience amusante.
+
 * Créateurs: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 * Lien du projet: [TIM Mycélium Luma Sol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
@@ -24,7 +28,15 @@
 
 [![Vidéo Youtube Luma Sol](http://img.youtube.com/vi/gmBtCpdoxLo/0.jpg)](http://www.youtube.com/watch?v=gmBtCpdoxLo)
 
+### Mon appréciation du projet
+
+Le projet de l'arbre interactif avec les lumières et les saisons a également capté mon attention et je le place en première position. J'apprécie la manière dont les lumières s'activent progressivement et l'accompagnement de la musique atmosphérique. Je trouve que cela ajoute une dimension poétique et apaisante à l'œuvre. De plus, l'idée d'inciter les visiteurs à pédaler sur un vélo stationnaire pour activer les lumières est originale et encourageante. Cela permet de mêler art et activité physique, et de sensibiliser les gens à l'importance de prendre soin de la nature et de l'environnement. 
+
 ## 2- Echomarine
+
+### Description du projet
+
+La projection du fond marin sur les murs et la présence des animaux en voie de disparition sensibilisent la société à propos des océans et de leur importance. Le projet est bien conçu avec une interface web permettant d'animer les différents animaux marins proposés. En plus, les haut-parleurs qui émettent des sons d'ambiance sous-marine ajoutent une touche réaliste à l'expérience. La tablette remplacera bientôt l'ordinateur actuel pour faciliter l'interaction avec les visiteurs. Cela ajoutera certainement de l'interactivité et rendra l'expérience plus immersive. Ce projet est une belle initiative pour faire prendre conscience à la société de l'importance des fonds marins et de la nécessité de protéger les animaux qui y vivent.
 
 * Créatrices: Florence Lapierre,Natacha Abdallah, Tracy Gua et Maria Laura Coronel
 
@@ -47,6 +59,10 @@
 ### Vidéo de l'installation en cours dans les studios
 
 [![Vidéo Youtube Echomarine](http://img.youtube.com/vi/FXi9pK1dMA4/0.jpg)](http://www.youtube.com/watch?v=FXi9pK1dMA4)
+
+### Mon appréciation du projet
+
+Je l'ai classée en troisième position car elle ne se distingue pas suffisamment des autres œuvres. Le projet en question est intéressant dans la mesure où il permet de sensibiliser le public à la disparition des animaux, ce qui est un enjeu important pour notre planète. L'interaction proposée est également un point positif, car elle permet d'impliquer le visiteur dans le projet. Cependant, il est vrai que le concept général du projet n'est pas très original. Le principe de montrer des animaux en voie de disparition dans un environnement virtuel est souvent utilisé dans des projets similaires. De plus, même si les animations réalisées sont de bonne qualité, elles ne se démarquent pas particulièrement des autres projets de ce type. Pour rendre ce projet plus original et créatif, il pourrait être intéressant d'ajouter des éléments interactifs supplémentaires ou de trouver une approche plus innovante pour la mise en scène des animaux en voie de disparition. Cela permettrait de rendre l'expérience plus mémorable pour les visiteurs et de renforcer l'impact du message de sensibilisation.
 
 ## 3- ENTRE FUNGUS/EDRIA
 
@@ -80,7 +96,11 @@ Au cours de la visite du studio, l'équipe nous a présenté un prototype de leu
 
 Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position. Ce n'est pas parce qu'elle n'était pas intéressante, bien au contraire, mais plutôt parce que les deux autres œuvres étaient encore plus impressionnantes. Néanmoins, j'ai été émerveillé par les jeux de lumière qui variaient selon l'endroit où nous nous placions autour de la structure, ainsi que par les sons qui se coordonnaient parfaitement avec les lumières. J'était fasciné par la façon dont l'art peut être transformé en une expérience interactive qui capte l'imagination et les sens du visiteur. C'est génial de voir comment les artistes utilisent la technologie pour créer des installations qui suscitent l'interaction et la participation des visiteurs. Le projet d'Edria est un parfait exemple de cela. Il est vraiment impressionnant de voir comment les différentes lumières et sons se mélangent pour créer une expérience qui nous transporte dans un univers fantastique. Ce genre d'œuvre est particulièrement intéressante pour attirer des personnes qui ne sont pas forcément des amateurs d'art. Il suffit de se laisser emporter par la musique et les lumières pour apprécier l'œuvre. C'est une véritable réussite artistique qui rend l'art accessible et amusant pour tous. 
 
-## 4- Boucler la boucle
+## 4- Boucler la boucle/ Nexum
+
+### Description du projet
+
+Le parcours interactif de ce projet est une expérience immersive dans un monde naturellement présenté grâce à la diffusion d'un marais. Les visiteurs se retrouvent entourés par des éléments de la nature, plongeant ainsi dans un monde de quiétude. Ce projet réussit à représenter à la fois la nature et l'aspect humain, en mélangeant la technologie et les éléments naturels. Dans le studio, nous pouvons voir un aperçu du parcours avec deux parcours de lumières activés par des capteurs. Les visiteurs peuvent ainsi interagir avec ces parcours pour créer un carrousel de lumières accompagné de sons. Bien que le prototype actuel utilise des fils de lumières tenus par des chaises, l'équipe a prévu de remplacer cela par un parcours de lumières plus élaboré en fixant un problème avec le code QR qui ne fonctionne pas sur les téléphones Apple et en allongeant le fil pour créer un parcours de lumières magiques. Ce projet offre une expérience immersive unique en son genre, qui plonge les visiteurs dans un monde naturel et technologique à la fois.
 
 * Créateurs: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
@@ -104,7 +124,15 @@ Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position
 
 [![Vidéo Youtube Boucler la boucle](http://img.youtube.com/vi/D20SsHzKCxU/0.jpg)](http://www.youtube.com/watch?v=D20SsHzKCxU)
 
+### Mon appréciation de l'oeuvre
+
+Cette installation présente un parcours de lumière interactif avec les visiteurs, bien que minimaliste et moins interactif que les autres. Toutefois, l'installation est très esthétique et le visiteur peut admirer la danse d'ampoules et se sentir apaisé par les lumières douces. Cependant, le visiteur ne se sentira peut-être pas impliqué et immergé dans l'installation. Le code QR original et créatif est apprécié, mais l'obligation pour le visiteur de sortir son téléphone pour apprécier l'installation dans son intégralité est un point faible qui peut détacher de l'oeuvre. J'ai trouvé l'utilisation du code QR intéressante mais un peu déroutante. Bien que l'idée d'ajouter une couche numérique à l'expérience soit bonne, il n'y avait pas suffisamment d'explication pour inciter les visiteurs à sortir leur téléphone et scanner le code. Il aurait peut-être été préférable d'intégrer le code QR d'une manière plus organique, comme une partie du parcours de lumière ou une animation projetée sur le mur.
+
 ## 5- Zodie-Gal
+
+### Description du projet
+
+Le projet consiste en un jeu en ligne où le joueur doit aider une jeune fille à vaincre des créatures monstrueuses. Malheureusement, le projet de jeu web n'a pas été disponible pour observation, car le créateur était absent. 
 
 * Créatrice: Abdanor Yara
 
@@ -118,61 +146,9 @@ Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position
 
 ### Photos de l'installation en cours dans les studios
 
+### Mon appréciation de l'oeuvre
 
-## Mon projet préféré
-
-* Echomarine
-
-Mon projet préféré est Echomarine. J’ai vraiment adoré l’œuvre et celle-ci m’a vraiment inspiré. J’ai beaucoup aimé le concept des animaux marins en voie d'extinction. Je trouve que cette œuvre est simple et très intéressante. Je trouve que cette œuvre rassemble est gens de tous les types d’âge et elle sensibilise la population des animaux marins. Je trouve que cette œuvre est très créative grâce aux animations des animaux en 2D. Cette œuvre est très intéressante et le concept est très original. Je trouve que les créatrices de l’œuvre ont bien exécuté le projet. De plus, la musique d’ambiance est très intéressante et rend les utilisateurs intrigués par celle-ci. Bref, ce projet est l’un de mes favoris !
-
-## Mon expérience d'intéraction avec les projets
-
-### Echomarine
-
-Echomarine est une œuvre qui a été créée par les étudiantes TIM de 3e année. L’œuvre nous donne un aperçu de la beauté des fonds marins et aussi de sa population en 
-menace d’extinction. L’œuvre est composée d’animation 2d des animaux marins avec Adobe After Effects, des projecteurs, des câbles, des fils, un IPad et des murs de 
-projections. J’ai adoré mon expérience avec l’œuvre, j’ai trouvé que l’œuvre était très intéressante. Je trouvais que l’animation était très bien faite. J’ai aimé le 
-fait que les utilisateurs puissent choisir l’animal marin qui apparaît sur les murs. J’aurais aimé s’il y avait d’autres animaux marins que l’on puisse choisir et 
-j’aurais aimé si on pouvait entendre les bruits des animaux sur l’écran de l’iPad lorsque l’on choisit un animal marin. J’aurais aussi aimé si on avait des quelques casques
-audios pour écouter un petit documentaire sur les animaux en voie d’extinction. J’ai vraiment aimé l’ambiance de la musique et des animations sur les murs, j’ai 
-vraiment adoré mon expérience avec l’œuvre. J’avais eu la possibilité de choisir un animal pour apparaître sur les murs. J’ai vraiment aimé mon interaction avec celle 
-ci.
-
-### ENTRE FUNGUS/EDRIA
-
-Entre Fungus/EDRIA est une œuvre interactive qui met en contraste entre la nature et le climat de l’industrialisation. J’ai eu la chance de pouvoir essayer l’œuvre 
-avec mes amis. J’ai vraiment aimé le fait que l’on a besoin de quatre personnes pour que l’œuvre fait des sons en harmonie. J’ai adoré le concept, car cela pourrait 
-ramener les gens ensemble par la musique. Depuis la Covid-19, il y a eu moins d’interaction avec les personnes. Je trouve que leur concept est bon pour rassembler les 
-gens et adorer le moment présent avec la musique. Je suis vraiment inspirée de l’œuvre créée, je trouve que c’est vraiment original. Lorsque j’ai essayé l’œuvre, il y 
-avait plusieurs effets de sons qui venaient lorsque l’on vient près de l’œuvre. Lorsque j’ai essayé l’œuvre, j’ai vraiment senti l’effet de l’œuvre, j’ai senti comme 
-si j’étais dans un monde de fée. De plus, j’adore le concept de l’œuvre qui représente le désir de l’humanité de cacher sa destruction de la nature.
-
-### Luma Sol
-
-Luma Sol est une œuvre qui donne l’importance pour les humains de demeurer en contact avec la nature à cause de l’urgence climatique. Je n’ai pas vraiment eu la chance 
-de pouvoir essayer l’œuvre, car pendant ma visite, le vélo stationnaire était juste un emprunt du cours de spinning au Collège Montmorency. Le trouve que cette œuvre 
-ce démarque des autres, car elle fait bouger les utilisateurs. Il faut pédaler pour que les lumières s’allument et la musique joue. Je trouve que c’est un très bon 
-concept. Malheureusement, je ne pouvais pas l’essayer à cause des circonstances de l’emprunt de matériel. J’ai vraiment aimé les musiques qu’ils ont créées pour cette 
-œuvre. En parlant avec les créateurs de l’œuvre, ils m’ont informé que la musique changeait à chaque saison. Je trouve que le concept est bon, mais j’aurais aimé si on 
-pouvait connecter plusieurs vélos stationnaires à l’œuvre. En augmentant le nombre de vélos stationnaires, et incitera à essayer l’œuvre en groupe. Bref, après avoir vu 
-l’œuvre, elle me donne envie de l’essayer à chaque saison. 
-
-### Boucler la boucle
-
-Boucler la boucle est une expérience lumineuse avec des animations et une ambiance musicale. Lorsque j’ai visité l’œuvre, je trouvais que les créateurs avaient bien 
-expliqué leur projet. J’ai eu la chance de pouvoir analyser le code QR pour diffuser des animations sur mon téléphone. J’ai adoré les animations qu’ils ont créées. Je 
-trouve que le projet est simple et minimaliste. Je trouve que ce projet est parfait pour toutes les conditions météorologiques. Personnellement, je n’ai pas vraiment 
-aimé cette œuvre. Mais je trouvais que le concept était bon. Mais j’ai adoré que l’on puisse analyser le code QR pour voir une animation. Je trouve que cela est une 
-bonne idée de laisser les utilisateurs d’analyser le code pour voir des animations. Je trouve que cela rend les utilisateurs conscients de la nature autour des 
-humains.
-
-### Zodie-Gal
-
-Malheureusement, l’œuvre Zodie-Gal n’était pas présentée lors de ma visite. Mais en basant sur le site de TIM Montmorency, j’ai trouvé plus d’informations sur cette 
-œuvre. J’ai aimé le concept de l’œuvre. Le concept des signes zodiaques est très original. De plus, l’œuvre a été réalisée par une seule personne ! Malheureusement, je 
-ne suis pas vraiment intéressée par cette œuvre. Je trouve que les idées et les démarches utilisées par la créatrice sont bonnes, mais je trouve que cette œuvre ne 
-m’intéresse pas. Je ne suis pas vraiment intéressé sur les projets des jeux, mais je pense que cela aurait été bien si on pouvait rencontrer la créatrice et voir 
-l’œuvre en création.
+Ce projet a été positionné en dernière place de la liste étant donné que très peu d'informations ont été communiquées à son sujet. En outre, la personne responsable n'était pas présente lors de notre visite du studio. En conséquence, je n'ai pas pu comprendre en quoi consiste exactement ce jeu web. Malgré mon désir de m'intéresser à tous les projets, celui-ci m'a laissé avec une impression mitigée, car il n'a pas réussi à capter mon attention. J'aurais préféré en savoir plus sur le concept de jeu et les fonctionnalités proposées. En somme, la présentation de ce projet n'a pas été convaincante et n'a pas réussi à me donner envie de m'attarder dessus.
 
 ## Cours du programme multimédia qui me semblent incontournables
 
@@ -180,12 +156,42 @@ l’œuvre en création.
 * Conception de projet multimédia (582 513 MO)
 * Gestion de projets multimédia (582 523 MO)
 
+### Edria (Entre fungus)
+* Projet Web
+* Traitement audiovisuel
+* Installation multimédia
+* Gestion de projets multimédia
+ 
+### Luma Sol
+* Projet Web
+* Traitement audiovisuel
+* Installation multimédia
+
+### Échomarine
+* Projet Web
+* Traitement audiovisuel
+* Animation 2D
+
+### Nexum (Boucler la boucle)
+* Projet Web
+* Traitement audiovisuel
+* Installation multimédia
+
+### Zodiadie Gal
+* Projet Web
+* Traitement audiovisuel
+* Animation 2D
+
 ## Technique intéressante
 
-* Utlisation de FL Studio pour le son dans le projet Entre Fungus
+* Utlisation de FL Studio pour le son dans le projet Entre Fungus/EDRIA
 
 Fl studio est une station de travail audio numérique qui est conçue dans le projet pour diffuser de la musique. Dans ce projet, ils vont utiliser ce logiciel pour
 créer de la musique féerique et ambiophonie. De plus, les lumières installées sur l'œuvre vont coordonner avec le rythme de la musique.
+
+## Appréhension de l'expérience finale
+
+Je suis certaine que je vais être impressionnée par le travail que les étudiants ont réalisé. L'idée que nous pourrons nous aussi créer un projet similaire à la fin de notre programme est fascinante. Leur utilisation de la technique audio numérique pour créer une musique féerique et ambiophonique, synchronisée avec des lumières, est remarquable. Je suis émerveillée par la capacité de ces étudiants à apprendre les bases de la technique, puis à appliquer leur savoir-faire pour créer quelque chose d'aussi magique et créatif. La création de leur projet leur a permis d'apprendre de nouvelles notions par eux-mêmes, de faire preuve de débrouillardise et de créativité. Dans deux ans, lorsque nous aurons appris suffisamment de matières, nous pourrons à notre tour créer un projet qui démontrera notre savoir-faire et notre créativité. J'ai hâte de voir ce que nous serons capables de réaliser en utilisant les outils et les connaissances que nous acquerrons au fil de notre programme.
 
 ## Sources
 
