@@ -1,6 +1,37 @@
 # TIM Mycélium
 
-## 1- Luma Sol
+## 1- ENTRE FUNGUS/EDRIA
+
+### Description du projet
+
+Au cours de la visite du studio, l'équipe nous a présenté un prototype de leur prochaine installation. Bien que l'installation finale soit beaucoup plus grande, les capteurs de mouvement étaient déjà en place. En nous tenant à des côtés opposés de l'installation, nous avons pu observer comment les lumières et les sons se sont harmonisés pour créer une ambiance immersive qui nous a transporté dans un monde fantastique. Le capteur de mouvement a permis à une personne de déclencher un son et une lumière, puis trois autres personnes ont rejoint l'expérience pour créer la musique finale. Cette expérience a été un exemple frappant de la façon dont la participation des spectateurs peut donner vie à une œuvre d'art et créer une expérience unique et personnalisée pour chacun.
+
+* Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
+
+* Lien du projet: [TIM Mycélium ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
+
+### Schéma de l'installation prévue
+
+![schema_entre_fungus](https://user-images.githubusercontent.com/112189908/219826167-7be58559-7f06-4ffc-a851-3842978f1e3e.png)
+
+[Source Photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
+
+### Photos et Vidéo de l'installation en cours dans les studios
+
+![edria_installation_01](https://user-images.githubusercontent.com/112189908/221075512-d7fa87c1-798e-4811-90a3-021059b17ca9.jpg)
+
+![edria_installation_02](https://user-images.githubusercontent.com/112189908/221075534-8b9e1727-62c5-44bc-827f-799af76a4232.jpg)
+
+![edria_installation_03](https://user-images.githubusercontent.com/112189908/221075543-c07471e9-2f4a-42db-8888-6c05cb5776b4.jpg)
+
+### Vidéo de l'installation en cours dans les studios
+
+[![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
+
+### Mon appréciation du projet
+J'ai été émerveillé par les jeux de lumière qui variaient selon l'endroit où nous nous placions autour de la structure, ainsi que par les sons qui se coordonnaient parfaitement avec les lumières. J'était fasciné par la façon dont l'art peut être transformé en une expérience interactive qui capte l'imagination et les sens du visiteur. C'est génial de voir comment les artistes utilisent la technologie pour créer des installations qui suscitent l'interaction et la participation des visiteurs. Le projet d'Edria est un parfait exemple de cela. Il est vraiment impressionnant de voir comment les différentes lumières et sons se mélangent pour créer une expérience qui nous transporte dans un univers fantastique. Ce genre d'œuvre est particulièrement intéressante pour attirer des personnes qui ne sont pas forcément des amateurs d'art. Il suffit de se laisser emporter par la musique et les lumières pour apprécier l'œuvre. C'est une véritable réussite artistique qui rend l'art accessible et amusant pour tous. 
+
+## 2- Luma Sol
 
 ### Description du projet
 
@@ -32,7 +63,7 @@ Le projet du vélo stationnaire m'a tout de suite interpellé. L'idée de pouvoi
 
 Le projet de l'arbre interactif avec les lumières et les saisons a également capté mon attention et je le place en première position. J'apprécie la manière dont les lumières s'activent progressivement et l'accompagnement de la musique atmosphérique. Je trouve que cela ajoute une dimension poétique et apaisante à l'œuvre. De plus, l'idée d'inciter les visiteurs à pédaler sur un vélo stationnaire pour activer les lumières est originale et encourageante. Cela permet de mêler art et activité physique, et de sensibiliser les gens à l'importance de prendre soin de la nature et de l'environnement. 
 
-## 2- Echomarine
+## 3- Echomarine
 
 ### Description du projet
 
@@ -63,38 +94,6 @@ La projection du fond marin sur les murs et la présence des animaux en voie de 
 ### Mon appréciation du projet
 
 Je l'ai classée en troisième position car elle ne se distingue pas suffisamment des autres œuvres. Le projet en question est intéressant dans la mesure où il permet de sensibiliser le public à la disparition des animaux, ce qui est un enjeu important pour notre planète. L'interaction proposée est également un point positif, car elle permet d'impliquer le visiteur dans le projet. Cependant, il est vrai que le concept général du projet n'est pas très original. Le principe de montrer des animaux en voie de disparition dans un environnement virtuel est souvent utilisé dans des projets similaires. De plus, même si les animations réalisées sont de bonne qualité, elles ne se démarquent pas particulièrement des autres projets de ce type. Pour rendre ce projet plus original et créatif, il pourrait être intéressant d'ajouter des éléments interactifs supplémentaires ou de trouver une approche plus innovante pour la mise en scène des animaux en voie de disparition. Cela permettrait de rendre l'expérience plus mémorable pour les visiteurs et de renforcer l'impact du message de sensibilisation.
-
-## 3- ENTRE FUNGUS/EDRIA
-
-### Description du projet
-
-Au cours de la visite du studio, l'équipe nous a présenté un prototype de leur prochaine installation. Bien que l'installation finale soit beaucoup plus grande, les capteurs de mouvement étaient déjà en place. En nous tenant à des côtés opposés de l'installation, nous avons pu observer comment les lumières et les sons se sont harmonisés pour créer une ambiance immersive qui nous a transporté dans un monde fantastique. Le capteur de mouvement a permis à une personne de déclencher un son et une lumière, puis trois autres personnes ont rejoint l'expérience pour créer la musique finale. Cette expérience a été un exemple frappant de la façon dont la participation des spectateurs peut donner vie à une œuvre d'art et créer une expérience unique et personnalisée pour chacun.
-
-* Créateurs: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
-
-* Lien du projet: [TIM Mycélium ENTRE FUNGUS](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
-
-### Schéma de l'installation prévue
-
-![schema_entre_fungus](https://user-images.githubusercontent.com/112189908/219826167-7be58559-7f06-4ffc-a851-3842978f1e3e.png)
-
-[Source Photo](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html)
-
-### Photos et Vidéo de l'installation en cours dans les studios
-
-![edria_installation_01](https://user-images.githubusercontent.com/112189908/221075512-d7fa87c1-798e-4811-90a3-021059b17ca9.jpg)
-
-![edria_installation_02](https://user-images.githubusercontent.com/112189908/221075534-8b9e1727-62c5-44bc-827f-799af76a4232.jpg)
-
-![edria_installation_03](https://user-images.githubusercontent.com/112189908/221075543-c07471e9-2f4a-42db-8888-6c05cb5776b4.jpg)
-
-### Vidéo de l'installation en cours dans les studios
-
-[![Vidéo Youtube ENTRE FUNGUS](http://img.youtube.com/vi/icu_RpN-rfA/0.jpg)](http://www.youtube.com/watch?v=icu_RpN-rfA)
-
-### Mon appréciation du projet
-
-Malgré ma fascination pour cette œuvre, je l'ai placée en troisième position. Ce n'est pas parce qu'elle n'était pas intéressante, bien au contraire, mais plutôt parce que les deux autres œuvres étaient encore plus impressionnantes. Néanmoins, j'ai été émerveillé par les jeux de lumière qui variaient selon l'endroit où nous nous placions autour de la structure, ainsi que par les sons qui se coordonnaient parfaitement avec les lumières. J'était fasciné par la façon dont l'art peut être transformé en une expérience interactive qui capte l'imagination et les sens du visiteur. C'est génial de voir comment les artistes utilisent la technologie pour créer des installations qui suscitent l'interaction et la participation des visiteurs. Le projet d'Edria est un parfait exemple de cela. Il est vraiment impressionnant de voir comment les différentes lumières et sons se mélangent pour créer une expérience qui nous transporte dans un univers fantastique. Ce genre d'œuvre est particulièrement intéressante pour attirer des personnes qui ne sont pas forcément des amateurs d'art. Il suffit de se laisser emporter par la musique et les lumières pour apprécier l'œuvre. C'est une véritable réussite artistique qui rend l'art accessible et amusant pour tous. 
 
 ## 4- Boucler la boucle/ Nexum
 
