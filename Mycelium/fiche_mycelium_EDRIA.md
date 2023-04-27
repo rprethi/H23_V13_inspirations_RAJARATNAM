@@ -10,6 +10,8 @@ Le nom de l’exposition est Mycélium et le nom du projet est EDRIA.
 
 ## Lieu de mise en exposition 
 
+![edria_affiche_plan](https://user-images.githubusercontent.com/112189908/234984905-6b41f29a-92ce-4397-b2ad-f794aa0881a9.png)
+
 Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle était située proche de l'entrée 1 du cégep Montmorency. Elle état situé au milieu de l’espace public dans le sentier aménagé près de la porte 1. La position de l'œuvre lui permet d'attirer l'attention des visiteurs dès leur arrivée et d'interagir avec elle en toute facilité. Le choix d'un emplacement au milieu d'un sentier aménagé crée également une ambiance plus naturelle et s'harmonise parfaitement avec la structure de l'œuvre
 
 ### Photo de moi devant l'oeuvre
@@ -50,13 +52,19 @@ Elle est réalisé en 2023 pendant la session d'hiver 2023. Elle a été réalis
 
 ## Description de l'oeuvre
 
-EDRIA est située dans l'espace publique au Cégep Montmorency et elle est entourée de verdure et d'arbres majestueux. Elle est composée de plusieurs structures, toutes disposées en cercle, avec l'une d'entre elles au centre. Cette structure centrale est celle qui permet l'interaction avec les visiteurs. Quatre capteurs de mouvement sont installés sur chaque côté de cette structure. Ces capteurs sont équipés de lumières et de sons différents, qui sont activés dès qu'ils détectent un mouvement. Chaque capteur produit des lumières et des sons différents, mais lorsqu'ils sont activés tous ensemble, ils créent un véritable spectacle son et lumière, qui enchante les visiteurs. La musique qui accompagne les lumières est rythmée et entraînante, ce qui incite les gens à danser et à bouger. La lumière est projetée dans toutes les directions, créant une atmosphère magique et envoûtante. Les visiteurs sont invités à participer à cette expérience unique, à se laisser emporter par les lumières et les sons, et à profiter pleinement de ce moment de détente et de plaisir. Cette œuvre d'art interactive est un véritable joyau dans ce parc public, et attire chaque jour de nombreux visiteurs, qui viennent profiter de cette expérience sensorielle unique.
+EDRIA est située dans l'espace publique au Cégep Montmorency et elle est entourée de verdure et d'arbres majestueux. Elle est composée de plusieurs structures, toutes disposées en cercle, avec l'une d'entre elles au centre. Cette structure centrale est celle qui permet l'interaction avec les visiteurs. Quatre capteurs de mouvement sont installés sur chaque côté de cette structure. Ces capteurs sont équipés de lumières et de sons différents, qui sont activés dès qu'ils détectent un mouvement. Chaque capteur produit des lumières et des sons différents, mais lorsqu'ils sont activés tous ensemble, ils créent un véritable spectacle son et lumière, qui enchante les visiteurs. La musique qui accompagne les lumières est rythmée et entraînante, ce qui incite les gens à danser et à bouger. La lumière est projetée dans toutes les directions, créant une atmosphère magique et envoûtante. Les visiteurs sont invités à participer à cette expérience unique, à se laisser emporter par les lumières et les sons, et à profiter pleinement de ce moment de détente et de plaisir. Cette œuvre d'art interactive est un véritable joyau dans ce parc public, et attire chaque jour de nombreux visiteurs, qui viennent profiter de cette expérience sensorielle unique
 
 ### Cartel
 
 ![edria_cartel_02](https://user-images.githubusercontent.com/112189908/234984457-c64d8c0f-7e07-43b7-b8f7-16414cf147b9.png)
 
 ### Diverses vues
+
+
+![edria_poteau_01](https://user-images.githubusercontent.com/112189908/234984988-d894ccc2-d123-4e13-83c3-249ae9f24f41.png)
+![edria_poteau_02](https://user-images.githubusercontent.com/112189908/234984998-751f90fb-79e1-472d-afc4-7cbba5b23453.png)
+![edria_poteau_03](https://user-images.githubusercontent.com/112189908/234985015-d1e037d2-d232-45fa-be2a-4438b95dccca.png)
+![edria_poteau_central_01](https://user-images.githubusercontent.com/112189908/234985195-a0a076aa-df6d-451a-98c7-bba4bd866e1b.png)
 
 ## Type d’installation
 
@@ -77,7 +85,6 @@ Au milieu de l'espace public aménagé près de la porte 1 se trouve la structur
 ## Composantes et techniques 
 ![edria_boule](https://user-images.githubusercontent.com/112189908/234984566-a7a12b03-79ba-4b32-9aba-74f5b1d2b49b.png)
 ![edria_cabanon](https://user-images.githubusercontent.com/112189908/234984576-57e347c6-4ad9-4cb8-98cc-dc1781b4d6f4.png)
-![edria_cabanon_central](https://user-images.githubusercontent.com/112189908/234984589-ae4a967b-0c8c-4502-8653-c5eb77eb240c.png)
 ![edria_capteur_mouvement](https://user-images.githubusercontent.com/112189908/234984595-54ae21ff-92cf-429a-b579-c111469d966a.png)
 ![edria_fausse_plante](https://user-images.githubusercontent.com/112189908/234984606-0a5581b6-c206-427c-8af4-4c2a5b4e9b3b.png)
 ![edria_fil_01](https://user-images.githubusercontent.com/112189908/234984618-84263582-364d-4643-8f61-88387e428de0.png)
@@ -96,6 +103,8 @@ Au milieu de l'espace public aménagé près de la porte 1 se trouve la structur
 Il est possible que pour certaines oeuvres, le transport se fasse en camions. Toutefois, pour l'oeuvre en question qui a été construite au Cégep Montmorency et mise en place dans l'espace public devant la porte 1, il est peu probable qu'elle ait nécessité un transport en camions. Il est plus probable que l'oeuvre a été transportée à l'aide de sacs de plastique et de caisses en bois, comme c'est souvent le cas pour les oeuvres exposées dans les musées. Cela permettrait une meilleure protection de l'oeuvre pendant le transport et assurerait qu'elle arrive en bon état à destination. 
 
 ## Éléments nécessaires à la mise en exposition
+
+![edria_cabanon_central](https://user-images.githubusercontent.com/112189908/234984589-ae4a967b-0c8c-4502-8653-c5eb77eb240c.png)
 
 Au cœur de l'installation artistique se trouve un cabanon, qui joue un rôle central dans le contrôle de l'œuvre. Ce cabanon abrite un Mac Mini, une carte de son, un amplificateur, ainsi que d'autres composantes essentielles au fonctionnement de l'installation. Le cabanon offre également une protection pour ces équipements sensibles, les préservant ainsi des intempéries et de toute autre source de dommage potentiel. Cette approche technologique permet de créer une installation artistique qui est à la fois esthétique et fonctionnelle, offrant ainsi une expérience unique et immersive pour les visiteurs.
 
