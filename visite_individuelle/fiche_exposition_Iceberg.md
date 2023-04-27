@@ -1,10 +1,5 @@
 # Visite individuelle : Luminothérapie Iceberg
 
-# Introduction
-
-Au Québec, plusieurs événements montréalais sensibilisent la population en créant des œuvres thématiques à plusieurs enjeux dans la société. Luminothérapie, un événement présentant plusieurs œuvres interactives est encore une fois présenté cette année au Quartier des spectacles à Montréal. Iceberg Luminothérapie, est de retour ! Iceberg, une œuvre thématique du réchauffement climatique, est présenté à l’esplanade de Montréal pour la 13e édition de celle-ci. Elle offre la possibilité aux Montréalais d’interagir avec celle-ci et explorer les diverses œuvres présentées au Quartier des spectacles. Cette œuvre est composée de 14 arches, des lumières Del ainsi que les détecteurs de mouvements. L'oeuvre interactive fait résonner une musique boréale avec des effets sonores lorsque les visiteurs marchent à l’intérieur de celle-ci. Ainsi, par la chaleur humaine, les lumières Del changent de couleur pour devenir d’un rouge vif pour sensibiliser la population du changement climatique. Dans cette fiche, l’œuvre sera détaillée sur sa description générale, sur une présentation détaillée sur celle-ci, sur les expériences vécues, des appréciations et des critiques ainsi que les liens avec d’autres œuvres.
-
-# Développement 
 ## Nom de l'exposition ou de l'événement
 
 LUMINOTHÉRAPIE, 13E ÉDITION
@@ -165,6 +160,7 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 * Des plaques d'aluminium pour relier la structure ensemble
 * Des clous pour relier la structure ensemble
 * Des fils
+* Des caches-fils
 * Une bande sonore avec des effets sonores
 
 ![iceberg_composante_01](https://user-images.githubusercontent.com/112189908/222937492-be3080d1-aebe-49cf-908a-12882d38e090.jpg)
@@ -184,6 +180,8 @@ L'oeuvre est présentée sur la rue Sainte-Catherine à Montréal. Elle est pré
 
 Le Quartier de spectacle n'a pas mis en place des éléments pour que l'œuvre soit exposé. L'œuvre est déjà composée de plaques d'aluminium pour relier 
 la structure ensemble. À cause de la neige, les plaques d'aluminium sont cachées. La pesanteur de l'œuvre rend l'œuvre stable au sol.
+
+* L'organisation de l'exposition de la Luminotherapie a créé le cartel pour distinguer toutes les œuvres interactives.
 
 ![iceberg_composante_03](https://user-images.githubusercontent.com/112189908/222937506-0491c4c8-8da1-4897-b726-f5a0ed7a4749.jpg)
 
