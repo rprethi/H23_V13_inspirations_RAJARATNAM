@@ -37,6 +37,10 @@ L'œuvre se nomme EDRIA, mais à ses débuts, elle portait le nom d'Entre Fungus
 
 ### Vue d'ensemble
 
+![edria_vue_ensemble](https://user-images.githubusercontent.com/112189908/234987148-6cc644a7-69e6-4b5a-9776-339e7ed44534.png)
+
+[Source image](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+
 ## Nom des artiste 
 
 L’œuvre est créée par les finissants du programme TIM au cégep Montmorency.
@@ -60,7 +64,6 @@ EDRIA est située dans l'espace publique au Cégep Montmorency et elle est entou
 
 ### Diverses vues
 
-
 ![edria_poteau_01](https://user-images.githubusercontent.com/112189908/234984988-d894ccc2-d123-4e13-83c3-249ae9f24f41.png)
 ![edria_poteau_02](https://user-images.githubusercontent.com/112189908/234984998-751f90fb-79e1-472d-afc4-7cbba5b23453.png)
 ![edria_poteau_03](https://user-images.githubusercontent.com/112189908/234985015-d1e037d2-d232-45fa-be2a-4438b95dccca.png)
@@ -74,11 +77,19 @@ L'installation en question se caractérise par son caractère interactif, dans l
 
 ### Vue palante
 
+[![EDRIA Vue parlante](http://img.youtube.com/vi/gLcCyPROGeo/0.jpg)](http://www.youtube.com/watch?v=gLcCyPROGeo)
+
+## Fonction du dispositif multimédia
+
+[![EDRIA Vue parlante](http://img.youtube.com/vi/gUHLCTZ49-M/0.jpg)](http://www.youtube.com/watch?v=gUHLCTZ49-M)
+
 ## Mise en espace
 
 Au milieu de l'espace public aménagé près de la porte 1 se trouve la structure principale qui interagit avec les visiteurs. Elle est entourée de plusieurs autres structures disposées en cercle, formant ainsi un ensemble cohérent. Toutes ces structures sont conçues de manière à produire des effets de lumière et de son similaires, et sont interconnectées avec la structure centrale. Toutefois, seule la structure centrale est équipée de capteurs de mouvement qui permettent de capter la présence des visiteurs. Ces capteurs sont installés sur les quatre côtés de la structure centrale, permettant ainsi de couvrir une large zone autour de l'œuvre d'art. Les autres structures ne sont pas équipées de capteurs de mouvement, mais elles participent néanmoins à la création d'un environnement sensoriel unique en harmonie avec la structure centrale. L'ensemble des structures crée une expérience immersive qui invite les visiteurs à interagir avec l'œuvre d'art d'une manière inédite et surprenante.
 
 ### Vue d'ensemble de la pièce
+
+[![EDRIA Vue d'ensemble](http://img.youtube.com/vi/xUS_3PIjyqA/0.jpg)](http://www.youtube.com/watch?v=xUS_3PIjyqA)
 
 ### Croquis
 
@@ -110,9 +121,13 @@ Au cœur de l'installation artistique se trouve un cabanon, qui joue un rôle ce
 
 ## Expérience vécue
 
+[![EDRIA Expérience](http://img.youtube.com/vi/ijjXjtZsmKE/0.jpg)](http://www.youtube.com/watch?v=ijjXjtZsmKE)
+
 L'installation artistique mise en place invite le visiteur à interagir avec elle, créant ainsi une expérience immersive et ludique. Le visiteur est libre de se promener autour de l'œuvre, afin d'observer les différents effets de lumière et de son produits par les capteurs installés sur les structures. Selon le côté de la structure où des personnes sont captées, des sons différents sont produits, offrant ainsi une expérience sonore unique pour chaque visiteur. Les jeux de lumière et les animations présents sur les structures sont également ajustés en fonction de la position des visiteurs, créant ainsi des effets lumineux dynamiques et fascinants. Les visiteurs peuvent ainsi observer l'œuvre sous différents angles et découvrir les multiples facettes de cette installation artistique interactive. Cette interaction entre l'œuvre et le visiteur permet de créer une expérience immersive qui stimule les sens et l'imagination, offrant ainsi une expérience mémorable et enrichissante pour tous les visiteurs.
 
 ### Posture du visiteur
+
+[![EDRIA Posture](http://img.youtube.com/vi/UKOiibOgyDQ/0.jpg)](http://www.youtube.com/watch?v=UKOiibOgyDQ)
 
 L'interaction avec l'œuvre est un aspect clé de l'expérience du visiteur. En marchant autour de la structure, les visiteurs peuvent observer les différents effets de lumière et de son qui sont produits en fonction de leur position par rapport à la structure centrale. Cette interaction avec l'œuvre rend l'expérience plus mémorable pour les visiteurs et leur permet de découvrir l'art sous une nouvelle perspective. Les visiteurs peuvent également se sentir impliqués dans l'œuvre, car leur présence déclenche les effets visuels et sonores. Cette interaction permet de susciter la curiosité et l'engagement des visiteurs, les incitant à explorer et à découvrir les différentes facettes de l'œuvre. En somme, la possibilité pour les visiteurs de marcher autour de l'œuvre et d'interagir avec elle est un élément clé qui enrichit l'expérience globale et permet de la rendre mémorable pour tous les visiteurs.
 
