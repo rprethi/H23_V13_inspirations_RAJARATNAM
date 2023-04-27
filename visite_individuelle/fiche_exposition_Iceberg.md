@@ -212,12 +212,6 @@ J'ai adoré le thème de l'œuvre. Le thème de l'œuvre était le réchauffemen
 
 Je n'ai pas aimé le fait que l'œuvre était petite en largeur. Il n'y avait pas beaucoup de place pour se déplacer à l'intérieur de l'œuvre. Lorsqu'il y a plusieurs personne qui essayait en même temps, des fois, il n'y a pas assez de place pour se déplacer et interagir avec l'autre. De plus, je n'ai pas aimé le fait que l'œuvre avait la même bande sonore qui répétait. J'aurais aimé, l'œuvre disposait différentes bandes sonores à différents moments de la journée. Par exemple, le matin, l'après-midi, ce soir et la nuit auraient chacune des différentes bandes sonores qui sera joué.
 
-## Liens avec autres oeuvres
-
-L'œuvre n'est pas similaire à aucune des œuvres vues jusqu'à présent dans cette session.
-
-# Conclusion 
-
 ## Références
 * [Quartier des spectacles Montréal](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/)
 * [QDSI](https://qdsinternational.com/installations/iceberg/)
