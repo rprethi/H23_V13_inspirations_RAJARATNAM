@@ -8,7 +8,7 @@ Le nom de l’exposition est Mycélium et le nom du projet est EDRIA.
 
 ## Lieu de mise en exposition 
 
-Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle était située proche de l'entrée 1 du cégep Montmorency. Elle état situé au milieu de l’espace public dans le sentier aménagé près de la porte 1.
+Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmorency. Pour la version finale de l'œuvre, elle était située proche de l'entrée 1 du cégep Montmorency. Elle état situé au milieu de l’espace public dans le sentier aménagé près de la porte 1. La position de l'œuvre lui permet d'attirer l'attention des visiteurs dès leur arrivée et d'interagir avec elle en toute facilité. Le choix d'un emplacement au milieu d'un sentier aménagé crée également une ambiance plus naturelle et s'harmonise parfaitement avec la structure de l'œuvre
 
 ### Photo de moi devant l'oeuvre
 
@@ -25,7 +25,7 @@ La date de ma viste est le 23 mars 2023 vers 19:30PM.
 
 ## Titre de l'œuvre 
 
-Le titre de l'oeuvre est EDRIA. Elle était anciennement nommée Entre Fungus.
+L'œuvre se nomme EDRIA, mais à ses débuts, elle portait le nom d'Entre Fungus. Le changement de nom est probablement dû à une évolution de la vision artistique ou d'une décision de l'artiste. Quoi qu'il en soit, le titre de l'œuvre est important pour la compréhension et l'appréciation de celle-ci. Il peut évoquer une signification ou une symbolique particulière, ou simplement être un choix esthétique pour accompagner l'œuvre dans son contexte.
 
 ### Vue d'ensemble
 
