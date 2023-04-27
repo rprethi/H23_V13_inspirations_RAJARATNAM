@@ -81,6 +81,11 @@ Il s'agit de présenter l'installation Iceberg qui était située sur l'esplanad
 * Oeuvre interactive
 * Accessible à tous
 
+## Ce qui ne m'a pas plu
+
+* L'œuvre était petite en largeur
+* Il n'y a pas différentes bandes sonores pour l'oeuvre lorsqu'on interagit avec celle-ci.
+
 ## Lien avec d'autres oeuvres vues
 
 * Edria
