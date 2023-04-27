@@ -68,12 +68,18 @@ Au milieu de l'espace public aménagé près de la porte 1 se trouve la structur
 
 * Les quatre côtés de la structure centrale sont équipés de capteurs.
 * Pour rendre visible l'interaction entre l'œuvre d'art et les visiteurs, des lumières ont été installées. Afin d'améliorer l'esthétique de l'installation, des globes ont été ajoutés aux lumières. En plus de ces lumières, des bandes LED et des projecteurs ont été disposés sur chaque structure, créant ainsi des effets de lumière saisissants qui s'harmonisent parfaitement avec les sons produits par les capteurs de mouvement. Ces différentes sources lumineuses permettent de mettre en valeur les aspects les plus spectaculaires de l'installation, créant ainsi une ambiance unique et immersive pour les visiteurs.
+* Pour accentuer l'ambiance de l'installation artistique, des haut-parleurs ont été installés sur les poteaux environnants. Ces haut-parleurs diffusent des sons d'ambiance et des effets sonores, contribuant ainsi à renforcer l'expérience sensorielle des visiteurs. Les sons produits par les haut-parleurs s'harmonisent avec les effets de lumière créés par les différentes sources lumineuses de l'installation, créant ainsi une ambiance immersive unique en son genre.
+* L'installation artistique est composée de plusieurs structures, notamment des poteaux disposés de manière à former un cercle autour de la structure centrale. Pour renforcer l'atmosphère de l'installation et mieux relier l'œuvre à son contexte, des fausses plantes ont été ajoutées aux structures. Ces fausses plantes apportent une touche de nature à l'ensemble, créant ainsi une ambiance relaxante et harmonieuse. L'ajout de ces éléments contribue également à renforcer la dimension esthétique de l'installation, créant ainsi une expérience immersive et agréable pour les visiteurs.
 
 ### Le transport de l'oeuvre
 
 ## Éléments nécessaires à la mise en exposition
 
+Au cœur de l'installation artistique se trouve un cabanon, qui joue un rôle central dans le contrôle de l'œuvre. Ce cabanon abrite un Mac Mini, une carte de son, un amplificateur, ainsi que d'autres composantes essentielles au fonctionnement de l'installation. Le cabanon offre également une protection pour ces équipements sensibles, les préservant ainsi des intempéries et de toute autre source de dommage potentiel. Cette approche technologique permet de créer une installation artistique qui est à la fois esthétique et fonctionnelle, offrant ainsi une expérience unique et immersive pour les visiteurs.
+
 ## Expérience vécue
+
+L'installation artistique mise en place invite le visiteur à interagir avec elle, créant ainsi une expérience immersive et ludique. Le visiteur est libre de se promener autour de l'œuvre, afin d'observer les différents effets de lumière et de son produits par les capteurs installés sur les structures. Selon le côté de la structure où des personnes sont captées, des sons différents sont produits, offrant ainsi une expérience sonore unique pour chaque visiteur. Les jeux de lumière et les animations présents sur les structures sont également ajustés en fonction de la position des visiteurs, créant ainsi des effets lumineux dynamiques et fascinants. Les visiteurs peuvent ainsi observer l'œuvre sous différents angles et découvrir les multiples facettes de cette installation artistique interactive. Cette interaction entre l'œuvre et le visiteur permet de créer une expérience immersive qui stimule les sens et l'imagination, offrant ainsi une expérience mémorable et enrichissante pour tous les visiteurs.
 
 ### Posture du visiteur
 
