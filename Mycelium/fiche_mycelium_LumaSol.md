@@ -17,7 +17,9 @@ Pour la visite, l'œuvre était présentée dans l'un des studios de TIM Montmor
 * Extérieure
 * Temporaire
 
-L'oeuvre est présenté à l'extérieur pour la version finale. 
+* L'oeuvre est présenté à l'extérieur pour la version finale. 
+
+Bien qu'elle soit éphémère, elle est conçue pour offrir une expérience inoubliable aux visiteurs grâce à son design innovant et interactif. Installée à proximité de l'entrée 1 du cégep Montmorency, cette œuvre d'art a attiré l'attention de nombreux passants qui ont pris le temps d'explorer ses multiples facettes.
 
 ## Date de ma visite
 
