@@ -73,7 +73,7 @@ Il s'agit de présenter l'installation Iceberg qui était située sur l'esplanad
 
 * Interaction entre la structure et les visiteurs, les visteurs interagissent avec l'oeuvre par leur chaleur humaine.
 * Geste posé: Visiteurs passent dans la série arches et ils peuvent écouter les sons et apprécier l'oeuvre.
-* Les visteurs peuvent observer, entendre les sons et ambiance sonore.
+* Les visteurs peuvent observer, entendre les sons et les ambiances sonores.
 
 ## Appréciation de l'oeuvre
 
