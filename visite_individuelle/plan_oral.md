@@ -38,7 +38,7 @@ Il s'agit de présenter l'installation Iceberg qui était située sur l'esplanad
 * Empreinte au sol de l’installation : 1 156 pi2 (107 m2)
 
 ### Type d'installation:
-* C'est une installation interractive
+* C'est une installation interactive
 * Les visiteurs peuvent interragir avec celle-ci. En passant, dans les arches, des sons sont produits et ceux-ci peuvent observer ce qu'il se passe. De la lumière bleue et rouges est aussi produite par l'installation.
 
 ### Fonction
