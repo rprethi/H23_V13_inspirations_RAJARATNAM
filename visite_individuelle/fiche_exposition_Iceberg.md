@@ -194,10 +194,6 @@ lorsqu'un visiteur pénètre à l'intérieur de l'œuvre, les lumières Del bleu
 changent de couleur pour devenir rouge à cause par la chaleur humaine. Grâce au capteur de mouvement, l'œuvre déclenche une bande sonore ainsi que des effets sonores 
 lorsque les visiteurs traversent l'œuvre.
 
-### Mon expérience de l'oeuvre
-
-Les visiteurs peuvent engouffrer à l'intérieur de l'œuvre, ils doivent marcher pour voir l'œuvre réagir à leur présence. L'œuvre est composée de lumières Del blues et lorsqu'un visiteur pénètre à l'intérieur de l'œuvre les lumières Del bleues placées à l'intérieur des profilés d'aluminium rouge. Autrement dit, les lumières bleues changent de couleur pour devenir rouge cause par la chaleur humaine. Grâce au capteur de mouvement, l'œuvre déclenche une bande sonore ainsi que des effets sonores lorsque les visiteurs traversent l'œuvre.
-
 ## Posture du visiteur
 
 [![Type d'installation](http://img.youtube.com/vi/IQURQ_2-31U/0.jpg)](http://www.youtube.com/watch?v=IQURQ_2-31U)
